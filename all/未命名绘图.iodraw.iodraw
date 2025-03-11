@@ -90,8 +90,8 @@
         <mxCell id="evlQuD29DeLrf3pGW4Ws-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一共1170个子节点&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1060" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="evlQuD29DeLrf3pGW4Ws-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0;rotation=-85;" vertex="1" parent="1">
-          <mxGeometry x="-85.15" y="748.91" width="29.81" height="220.75" as="geometry" />
+        <mxCell id="evlQuD29DeLrf3pGW4Ws-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-85;" vertex="1" parent="1">
+          <mxGeometry x="-115.39" y="685.78" width="35.15" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
