@@ -10,10 +10,10 @@
         <mxCell id="evlQuD29DeLrf3pGW4Ws-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;根节点&lt;/span&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;[16 B x 1024&amp;nbsp; ÷ （6+8=14 B）≈ 1170个子节点 ]&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="300" width="490" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="evlQuD29DeLrf3pGW4Ws-6" value="非叶节点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="evlQuD29DeLrf3pGW4Ws-6" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;非叶节点&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="560" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="evlQuD29DeLrf3pGW4Ws-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="evlQuD29DeLrf3pGW4Ws-7" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;非叶节点&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="evlQuD29DeLrf3pGW4Ws-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.308;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="evlQuD29DeLrf3pGW4Ws-7" target="evlQuD29DeLrf3pGW4Ws-5">
@@ -25,7 +25,7 @@
         <mxCell id="evlQuD29DeLrf3pGW4Ws-16" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;.........&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="580" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="evlQuD29DeLrf3pGW4Ws-17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="evlQuD29DeLrf3pGW4Ws-17" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;非叶节点&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="575" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="evlQuD29DeLrf3pGW4Ws-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.742;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="evlQuD29DeLrf3pGW4Ws-17" parent="1" target="evlQuD29DeLrf3pGW4Ws-5">
