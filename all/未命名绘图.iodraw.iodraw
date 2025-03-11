@@ -49,11 +49,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="evlQuD29DeLrf3pGW4Ws-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一共1170个子节点&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="613" width="170" height="40" as="geometry" />
+          <mxGeometry x="630" y="580" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="evlQuD29DeLrf3pGW4Ws-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.016;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="evlQuD29DeLrf3pGW4Ws-19">
+        <mxCell id="evlQuD29DeLrf3pGW4Ws-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="560" as="sourcePoint" />
+            <mxPoint x="640" y="600" as="sourcePoint" />
             <mxPoint x="610" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
