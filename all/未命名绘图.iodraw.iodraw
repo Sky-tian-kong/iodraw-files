@@ -136,8 +136,8 @@
         <mxCell id="QthPK9b_DzBB8eTIxNUP-36" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;回表查询，会导致多查询一次且会带来随机I/O&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="788" y="297" width="506" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="QthPK9b_DzBB8eTIxNUP-37" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;随机I/O原因:&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;通过id主键去索引查询时，id不一定是连续的（age为10的人有很多，age为索引时有序的，但查询出来的id可能是无序的，不连续的）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="419" y="737" width="1429" height="70" as="geometry" />
+        <mxCell id="QthPK9b_DzBB8eTIxNUP-37" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;随机I/O原因:&lt;/font&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;通过id主键去索引查询时，id不一定是连续的（age为10的人有很多，age为索引时有序的，但查询出来的id可能是无序的，不连续的）&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="232" y="641" width="1429" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
