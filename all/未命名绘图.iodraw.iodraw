@@ -10,7 +10,7 @@
         <mxCell id="QthPK9b_DzBB8eTIxNUP-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;例如：&lt;br&gt;查询Select * from user where age = 10&lt;br&gt;其中age是二级索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="91" y="241" width="430" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="QthPK9b_DzBB8eTIxNUP-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QthPK9b_DzBB8eTIxNUP-5" value="10-30" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="231" y="405" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
