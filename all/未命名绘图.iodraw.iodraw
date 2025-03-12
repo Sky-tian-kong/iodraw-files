@@ -127,8 +127,11 @@
             <mxPoint x="193" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QthPK9b_DzBB8eTIxNUP-34" value="主键2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QthPK9b_DzBB8eTIxNUP-34" value="age:10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="136" y="1256" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QthPK9b_DzBB8eTIxNUP-35" value="age:10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="1332" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
