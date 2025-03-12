@@ -133,6 +133,9 @@
         <mxCell id="QthPK9b_DzBB8eTIxNUP-35" value="name:张三" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="595" y="855" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QthPK9b_DzBB8eTIxNUP-36" value="回表查询" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="801" y="278" width="66" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
