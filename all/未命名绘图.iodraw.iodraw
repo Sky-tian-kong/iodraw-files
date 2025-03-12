@@ -133,7 +133,7 @@
         <mxCell id="QthPK9b_DzBB8eTIxNUP-35" value="name:张三" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="803" y="856" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QthPK9b_DzBB8eTIxNUP-36" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;回表查询，会导致多查询一次且会带俩随机I/O&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="QthPK9b_DzBB8eTIxNUP-36" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;回表查询，会导致多查询一次且会带来随机I/O&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="788" y="297" width="506" height="41" as="geometry" />
         </mxCell>
       </root>
