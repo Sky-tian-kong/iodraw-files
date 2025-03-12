@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="9gzZEy21qc_mqvWpXqcl">
-    <mxGraphModel dx="814" dy="566" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="970" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,8 +142,8 @@
         <mxCell id="QthPK9b_DzBB8eTIxNUP-40" value="&lt;p style=&quot;text-wrap: nowrap; line-height: 12px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;随机I/O原因:&lt;/font&gt;&lt;/p&gt;&lt;div style=&quot;text-wrap: nowrap; line-height: 15.6px;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;通过id主键去索引查询时，id不一定是连续的（age为10的人有很多，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap; line-height: 15.6px;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap; line-height: 15.6px;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;age为索引时有序的，&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;但查询出来的id可能是无序的，不连续的），因此主键索引频繁查询会引起随机I/O，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap; line-height: 15.6px;&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap; line-height: 15.6px;&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;顺序I/O速度快，但随机I/O速度很慢，因此尽量不要使用回表查询&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="874" y="577" width="1261" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="QthPK9b_DzBB8eTIxNUP-42" value="补充:覆盖索引&lt;br&gt;当二级索引的查询结果能满足查询目标字段那么就不需要进行回表, 就实现了索引覆盖; 查询的信息通过二级索引进行覆盖了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="476" y="929" width="282" height="145" as="geometry" />
+        <mxCell id="QthPK9b_DzBB8eTIxNUP-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;补充:覆盖索引&lt;br&gt;当二级索引的查询结果能满足查询目标字段那么就不需要进行回表, 就实现了索引覆盖; 查询的信息通过二级索引进行覆盖了&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="409" y="941" width="679" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
