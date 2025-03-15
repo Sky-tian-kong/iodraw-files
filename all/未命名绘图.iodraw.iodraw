@@ -227,8 +227,11 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="112.99999999999989" y="1534.6129032258063" as="sourcePoint" />
-            <mxPoint x="191" y="1491" as="targetPoint" />
+            <mxPoint x="247" y="1515" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-24" value="搜索模糊查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="1473" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
