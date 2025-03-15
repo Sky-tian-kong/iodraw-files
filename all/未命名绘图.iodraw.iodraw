@@ -182,7 +182,7 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="1267" width="84" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-13" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XpfKUMwM36LwxsHVW_NN-6" target="XpfKUMwM36LwxsHVW_NN-11">
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-13" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XpfKUMwM36LwxsHVW_NN-31" target="XpfKUMwM36LwxsHVW_NN-11">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
             <mxPoint x="352" y="1293" as="sourcePoint" />
             <mxPoint x="475" y="1270" as="targetPoint" />
@@ -246,7 +246,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-30" value="应用可视化分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="38" y="1453" width="102" height="26" as="geometry" />
+          <mxGeometry x="302" y="1500" width="102" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-32" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XpfKUMwM36LwxsHVW_NN-6" target="XpfKUMwM36LwxsHVW_NN-31">
+          <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
+            <mxPoint x="318" y="1320" as="sourcePoint" />
+            <mxPoint x="476" y="1292" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180.5" y="1209" width="351" height="251" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
