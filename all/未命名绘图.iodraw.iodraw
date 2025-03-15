@@ -218,8 +218,8 @@
             <mxPoint x="198" y="1381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-21" value="创建应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="209" y="1270" width="140" height="70" as="geometry" />
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-21" value="搜索模糊查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="1366" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
