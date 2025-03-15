@@ -177,7 +177,7 @@
           <mxGeometry x="476" y="1303" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="384" y="1292" width="84" height="26" as="geometry" />
+          <mxGeometry x="355" y="1284" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-13" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XpfKUMwM36LwxsHVW_NN-6" target="XpfKUMwM36LwxsHVW_NN-11">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
@@ -185,6 +185,9 @@
             <mxPoint x="475" y="1270" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-14" value="设置应用类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="478" y="1379" width="96" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
