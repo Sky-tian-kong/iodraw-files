@@ -233,8 +233,8 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-24" value="查看热门应用统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="253" y="1473" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-25" value="查看热门应用统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="253" y="1575" width="140" height="70" as="geometry" />
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-25" value="查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="258" y="1575" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XpfKUMwM36LwxsHVW_NN-22" target="XpfKUMwM36LwxsHVW_NN-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
