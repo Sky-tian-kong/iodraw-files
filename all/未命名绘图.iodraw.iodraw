@@ -330,8 +330,8 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-52" value="搜索模糊查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="153" y="2525" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-53" value="&lt;font face=&quot;微软雅黑&quot; color=&quot;#454545&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;MySQL 中的 MVCC 是什么?&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;答：MVCC(&lt;/b&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Multi-Version Concurrency Control&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-107" y="2745" width="478" height="63" as="geometry" />
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-53" value="&lt;font face=&quot;微软雅黑&quot; color=&quot;#454545&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;MySQL 中的 MVCC 是什么?&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;答：MVCC(&lt;/b&gt;&lt;b style=&quot;&quot;&gt;Multi-Version Concurrency Control&lt;/b&gt;&lt;b style=&quot;&quot;&gt;)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-107" y="2745" width="615" height="349" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
