@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XpfKUMwM36LwxsHVW_NN-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="193" y="1497" width="351" height="251" as="geometry" />
+          <mxGeometry x="192" y="1896" width="351" height="251" as="geometry" />
         </mxCell>
         <mxCell id="QthPK9b_DzBB8eTIxNUP-2" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 24px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;rgba(255, 255, 255, 0.85)&quot;&gt;&lt;b&gt;MySQL 中的回表是什么？&lt;br&gt;答:回表是使用二级索引作为条件进行查询时，由于二级索引只存储了索引字段的值和对应的主键，无法获取完整数据。若还需要查询其他数据，则需要根据主键去聚簇索引再次查询其他数据，这个过程称为回表。&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="406" y="31" width="781" height="187" as="geometry" />
@@ -225,31 +225,31 @@
           <mxGeometry x="199" y="1366" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-22" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="94" y="1615" width="30" height="60" as="geometry" />
+          <mxGeometry x="93" y="2014" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="123.99999999999989" y="1626.6129032258063" as="sourcePoint" />
-            <mxPoint x="258" y="1607" as="targetPoint" />
+            <mxPoint x="122.99999999999989" y="2025.6129032258063" as="sourcePoint" />
+            <mxPoint x="257" y="2006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-24" value="查看热门应用统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="1565" width="140" height="70" as="geometry" />
+          <mxGeometry x="263" y="1964" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-25" value="查看应用统计结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1667" width="140" height="70" as="geometry" />
+          <mxGeometry x="268" y="2066" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XpfKUMwM36LwxsHVW_NN-22" target="XpfKUMwM36LwxsHVW_NN-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="133.9999999999999" y="1636.6129032258063" as="sourcePoint" />
-            <mxPoint x="268" y="1617" as="targetPoint" />
+            <mxPoint x="132.9999999999999" y="2035.6129032258063" as="sourcePoint" />
+            <mxPoint x="267" y="2016" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-30" value="应用可视化分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="302" y="1500" width="102" height="26" as="geometry" />
+          <mxGeometry x="301" y="1899" width="102" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="597" y="1410" width="351" height="251" as="geometry" />
+          <mxGeometry x="157.5" y="1176" width="553.5" height="544" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
