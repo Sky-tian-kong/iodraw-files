@@ -148,17 +148,17 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="1270" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="152" y="1295" as="sourcePoint" />
-            <mxPoint x="228" y="1249" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="231" y="1217" width="379" height="196" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="379" y="1136" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="XpfKUMwM36LwxsHVW_NN-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="152" y="1295" as="sourcePoint" />
+            <mxPoint x="228" y="1249" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
