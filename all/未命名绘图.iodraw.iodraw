@@ -158,7 +158,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-6" value="创建应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="236" y="1248" width="140" height="70" as="geometry" />
+          <mxGeometry x="203" y="1239" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-8" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="234" y="1295" as="sourcePoint" />
+            <mxPoint x="394" y="1295" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
