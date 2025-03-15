@@ -339,7 +339,7 @@
             <mxPoint x="656" y="3166" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-56" value="记录修改顺" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-56" value="记录修改顺序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="301" y="3115" width="179" height="30" as="geometry" />
         </mxCell>
       </root>
