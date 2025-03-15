@@ -369,6 +369,16 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-62" value="id:1 name:sky" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="563" y="3249" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="186" y="3319" as="targetPoint" />
+            <mxPoint x="402" y="3315" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="3358" />
+              <mxPoint x="186" y="3358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
