@@ -346,7 +346,10 @@
           <mxGeometry x="83" y="3196" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-58" value="update NO where id 1第二个版本数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="243" y="3193" width="219" height="26" as="geometry" />
+          <mxGeometry x="288" y="3195" width="219" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-59" value="update sky where id 1 最新的数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="521" y="3196" width="198" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
