@@ -342,6 +342,9 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-56" value="记录修改顺序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="301" y="3115" width="179" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="153" y="3196" width="40" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
