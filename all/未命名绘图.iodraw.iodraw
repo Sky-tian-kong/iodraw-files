@@ -154,8 +154,8 @@
             <mxPoint x="228" y="1249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="274" y="1255" width="80" height="80" as="geometry" />
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="254" y="1348" width="379" height="196" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
