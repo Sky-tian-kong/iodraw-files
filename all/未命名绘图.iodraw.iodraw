@@ -371,11 +371,11 @@
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="186" y="3319" as="targetPoint" />
-            <mxPoint x="402" y="3315" as="sourcePoint" />
+            <mxPoint x="423" y="3308" as="targetPoint" />
+            <mxPoint x="642" y="3312" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="400" y="3358" />
-              <mxPoint x="186" y="3358" />
+              <mxPoint x="640" y="3355" />
+              <mxPoint x="426" y="3355" />
             </Array>
           </mxGeometry>
         </mxCell>
