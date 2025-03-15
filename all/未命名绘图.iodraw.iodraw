@@ -224,6 +224,12 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-22" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="83" y="1523" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.684;exitY=0.604;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="171" y="1546" as="sourcePoint" />
+            <mxPoint x="233" y="1621" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
