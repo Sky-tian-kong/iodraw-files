@@ -170,8 +170,8 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-9" value="创建应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="416" y="1223" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1237" width="40" height="26" as="geometry" />
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="314" y="1237" width="84" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
