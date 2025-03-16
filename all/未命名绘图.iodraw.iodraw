@@ -980,9 +980,13 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-177" value="AI生成题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="439" y="6651" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-179">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="289.66666666666674" y="6991.49979019165" as="targetPoint" />
+            <mxPoint x="57" y="7210.000000000001" as="targetPoint" />
+            <mxPoint x="292" y="6958" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="257" y="7071" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-179" value="题目设置完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
