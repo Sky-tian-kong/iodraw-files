@@ -892,8 +892,8 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-151" value="应用信息填写是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-73.5" y="6828" width="141" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-154" value="图表显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-338" y="7006" width="120" height="60" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-154" value="创建成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="6956" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
