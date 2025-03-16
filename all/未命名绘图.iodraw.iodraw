@@ -671,15 +671,16 @@
             <mxPoint x="-273.9960000000001" y="5548.002" as="targetPoint" />
             <mxPoint x="-349.95000000000005" y="5718.43" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-350" y="5721" />
-              <mxPoint x="-350" y="5719" />
-              <mxPoint x="-405" y="5719" />
+              <mxPoint x="-405" y="5721" />
               <mxPoint x="-405" y="5548" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-99" value="账号和密码是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-353.23" y="5681" width="158.82" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-101" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-392" y="5675" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
