@@ -563,10 +563,10 @@
           <mxGeometry x="-74.5" y="4625" width="178" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-54" value="应用创建和题目设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-336" y="4625" width="191" height="60" as="geometry" />
+          <mxGeometry x="-336" y="4625" width="178" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-55" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="124" y="4622" width="250" height="60" as="geometry" />
+          <mxGeometry x="157" y="4625" width="164" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
