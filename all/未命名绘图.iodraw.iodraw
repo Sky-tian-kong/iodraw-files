@@ -1072,9 +1072,13 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-204" value="填写原密码和新密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-55.00036356608058" y="7475.003333333334" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1.008;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-206" target="WaSGcoQdoSlrRCY8OdyT-204">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="149.54767354329442" y="7642.333333333334" as="targetPoint" />
+            <mxPoint x="-71" y="7463" as="targetPoint" />
+            <mxPoint x="101" y="7602" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="125" y="7567" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-206" value="原密码是否有误" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
