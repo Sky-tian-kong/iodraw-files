@@ -620,7 +620,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-71" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;热门应用分仔&lt;/font&gt;" style="rounded=0;html=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="71" y="4832" width="59" height="182" as="geometry" />
+          <mxGeometry x="48" y="4832" width="59" height="182" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-72" target="WaSGcoQdoSlrRCY8OdyT-53">
           <mxGeometry relative="1" as="geometry" />
