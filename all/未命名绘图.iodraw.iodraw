@@ -553,19 +553,10 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-50" value="Tomcat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-118" y="4241" width="376" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-51" target="WaSGcoQdoSlrRCY8OdyT-55">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="337" y="4698" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="39" y="4635" />
-              <mxPoint x="337" y="4635" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-51" value="智能答题应用平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-87" y="4512" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-52">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-52" target="WaSGcoQdoSlrRCY8OdyT-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-457.2352941176471" y="4654.277219884536" as="targetPoint" />
           </mxGeometry>
@@ -573,22 +564,8 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-52" value="应用界面显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-546" y="4713" width="178" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="133.35294117647072" y="4635.453834084904" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-53" value="数据可视化分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="44" y="4701" width="178" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="38" y="4635" as="targetPoint" />
-            <mxPoint x="-77" y="4697" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-77" y="4635" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-54" value="应用模块设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-166" y="4701" width="178" height="60" as="geometry" />
