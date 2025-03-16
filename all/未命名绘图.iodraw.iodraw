@@ -828,7 +828,13 @@
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-137">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-149.28573608398438" y="6911" as="targetPoint" />
+            <mxPoint x="-285" y="6731" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-197" y="6911" />
+              <mxPoint x="-197" y="6873" />
+              <mxPoint x="-202" y="6873" />
+              <mxPoint x="-202" y="6731" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-137" value="数据是否请求成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
