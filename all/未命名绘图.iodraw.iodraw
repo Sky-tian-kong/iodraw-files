@@ -491,8 +491,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-32" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="3969" width="120" height="60" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-32" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="3954" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-144" y="3761" width="437" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
