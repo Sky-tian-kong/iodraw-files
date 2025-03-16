@@ -918,6 +918,11 @@
             <mxPoint x="-2.8333333333332575" y="7176.738539377849" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-160">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140.97630310058594" y="7088.166666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-160" value="是否设置题目" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-73.5" y="7048" width="141" height="80" as="geometry" />
         </mxCell>
