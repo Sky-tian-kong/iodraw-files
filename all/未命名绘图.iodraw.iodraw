@@ -507,7 +507,7 @@
           <mxGeometry x="145" y="3951" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-37" value="接口文档服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="31" y="4014" width="78" height="40" as="geometry" />
+          <mxGeometry x="25.5" y="4011" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-38" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-95" y="4014" width="78" height="40" as="geometry" />
@@ -532,7 +532,7 @@
           <mxGeometry x="-115" y="4134" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-45" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="33" y="4134" width="78" height="40" as="geometry" />
+          <mxGeometry x="21" y="4134" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-46" value="COS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="4134" width="78" height="40" as="geometry" />
