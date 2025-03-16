@@ -1012,8 +1012,16 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-191" value="修改个人信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-303.83" y="7554" width="90" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-192" target="WaSGcoQdoSlrRCY8OdyT-194">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-306.1666666666665" y="7702.452142079672" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-192" value="填写相应的个人信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-367" y="7600" width="156" height="60" as="geometry" />
+          <mxGeometry x="-384" y="7607" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-194" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-346.1666666666665" y="7662.452142079672" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
