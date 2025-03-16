@@ -534,8 +534,8 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-45" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="33" y="4134" width="78" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-46" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="43" y="4144" width="78" height="40" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-46" value="COS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="4134" width="78" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
