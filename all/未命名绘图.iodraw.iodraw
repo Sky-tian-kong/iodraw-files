@@ -445,7 +445,10 @@
           <mxGeometry x="-34" y="3662" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-19" value="TypeScript" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="26" y="3814" width="78" height="40" as="geometry" />
+          <mxGeometry x="59.5" y="3662" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-20" value="css" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="3816" width="78" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
