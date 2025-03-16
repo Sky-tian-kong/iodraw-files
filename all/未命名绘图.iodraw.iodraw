@@ -676,11 +676,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-274" y="5800.285514831543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-99" value="账号和密码是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-353.23" y="5681" width="158.82" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-101" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-392" y="5675" width="40" height="26" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-101" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-394" y="5692" width="26" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
