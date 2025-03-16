@@ -879,7 +879,12 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-149" value="填写应用信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-63" y="6742" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-151" value="应用信息是否填写错误" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-151">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2.8333333333332575" y="6947.6903317769375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-151" value="应用信息填写是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-73.5" y="6828" width="141" height="80" as="geometry" />
         </mxCell>
       </root>
