@@ -1099,6 +1099,11 @@
             <mxPoint x="5" y="7840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-211">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="126" y="7607" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-211" value="新旧密码是否一致" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-83" y="7727" width="176" height="80" as="geometry" />
         </mxCell>
