@@ -631,8 +631,8 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-75" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;创建应用&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="-162" y="4826" width="59" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-76" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;创建应用&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="-152" y="4836" width="59" height="182" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-76" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;设置题目&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="-76" y="4826" width="59" height="182" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
