@@ -786,9 +786,12 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-126" value="注册成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-126.99999999999997" y="5914" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-129">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-129" target="WaSGcoQdoSlrRCY8OdyT-92">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-168.14285278320312" y="5609.999839782715" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-168" y="6036" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-129" value="开始登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
