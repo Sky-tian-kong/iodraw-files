@@ -600,8 +600,8 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-55" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="258" y="4701" width="178" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-67" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="268" y="4711" width="178" height="60" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-67" value="登录注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="4832" width="59" height="182" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
