@@ -515,7 +515,7 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-39" value="分库分表服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="4014" width="78" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-40" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;存储层&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-286" y="4119" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-41" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
@@ -544,7 +544,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-48" value="运行环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-48" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;运行环境&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-286" y="4231" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
