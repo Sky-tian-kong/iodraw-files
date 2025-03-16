@@ -697,9 +697,9 @@
             <mxPoint x="-274" y="5917.999809265137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-108" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WaSGcoQdoSlrRCY8OdyT-107">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-108" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WaSGcoQdoSlrRCY8OdyT-107">
           <mxGeometry x="0.0071" y="9" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
+            <mxPoint x="19" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-103" value="账号和密码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
