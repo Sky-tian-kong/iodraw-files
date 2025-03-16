@@ -497,8 +497,8 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-154" y="3929" width="437" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-34" value="登录模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-124" y="3775" width="78" height="40" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-34" value="AI服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-134" y="3945" width="78" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
