@@ -486,10 +486,13 @@
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-31" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-281" y="3738" as="sourcePoint" />
-            <mxPoint x="362" y="3738" as="targetPoint" />
+            <mxPoint x="-293" y="3907" as="sourcePoint" />
+            <mxPoint x="350" y="3907" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-32" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="3969" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
