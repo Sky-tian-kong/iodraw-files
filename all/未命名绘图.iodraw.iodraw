@@ -743,8 +743,8 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-116" value="输入账号、密码、&lt;br&gt;确认密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-146" y="5567" width="154" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-118" value="账号和密码是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-343.23" y="5691" width="158.82" height="80" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-118" value="账号、密码、确认密码&lt;br&gt;是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-148.41000000000003" y="5673" width="158.82" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
