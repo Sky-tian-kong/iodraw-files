@@ -461,7 +461,7 @@
           <mxGeometry x="-290" y="3751" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-154" y="3751" width="504" height="136" as="geometry" />
+          <mxGeometry x="-154" y="3751" width="442" height="136" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-24" value="登录模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-134" y="3765" width="78" height="40" as="geometry" />
