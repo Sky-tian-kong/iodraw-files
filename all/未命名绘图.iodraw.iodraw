@@ -506,8 +506,8 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-36" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="93" y="3945" width="78" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-37" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-134" y="4011" width="78" height="40" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-37" value="接口文档服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="4021" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-38" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-124" y="4021" width="78" height="40" as="geometry" />
