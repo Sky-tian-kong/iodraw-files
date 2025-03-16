@@ -736,7 +736,7 @@
           <mxGeometry x="-197" y="5456" width="27" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-116" value="输入账号、密码、确认密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-124" y="5570" width="120" height="60" as="geometry" />
+          <mxGeometry x="-152" y="5568" width="154" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
