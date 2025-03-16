@@ -382,7 +382,7 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="889" y="1860" width="351" height="251" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-2" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="783" y="1965" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -392,10 +392,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-4" value="查看热门应用统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1928" width="140" height="70" as="geometry" />
+          <mxGeometry x="951" y="1908" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-5" value="查看应用统计结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="965" y="2030" width="140" height="70" as="geometry" />
+          <mxGeometry x="952" y="2014" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="WaSGcoQdoSlrRCY8OdyT-2" target="WaSGcoQdoSlrRCY8OdyT-5" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
