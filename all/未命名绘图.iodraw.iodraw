@@ -655,8 +655,8 @@
             <mxPoint x="-274" y="5527" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-92" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-333.82" y="5616" width="120" height="60" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-92" value="输入账号和密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-333.82" y="5585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
