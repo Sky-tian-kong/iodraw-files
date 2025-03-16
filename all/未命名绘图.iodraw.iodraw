@@ -447,8 +447,15 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-19" value="TypeScript" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="59.5" y="3662" width="78" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-20" value="css" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="101" y="3816" width="78" height="40" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-20" value="CSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="3662" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-21" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="57" y="3750" as="sourcePoint" />
+            <mxPoint x="137" y="3750" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
