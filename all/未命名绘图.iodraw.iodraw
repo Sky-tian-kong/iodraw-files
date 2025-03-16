@@ -565,7 +565,7 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-54" value="应用题目和评分设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-336" y="4625" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-55" value="数据可视化分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-55" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262" y="4625" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
