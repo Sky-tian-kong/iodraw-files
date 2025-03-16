@@ -898,10 +898,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-154" value="创建成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-61" y="6956" width="120" height="60" as="geometry" />
+          <mxGeometry x="-63" y="6948" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-156" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-61" y="7075.004164733887" width="120" height="60" as="geometry" />
+          <mxGeometry x="-56" y="7078.004164733887" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
