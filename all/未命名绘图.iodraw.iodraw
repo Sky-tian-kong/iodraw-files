@@ -585,7 +585,7 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-53" value="数据可视化分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="44" y="4701" width="178" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="38" y="4635" as="targetPoint" />
             <mxPoint x="-77" y="4697" as="sourcePoint" />
