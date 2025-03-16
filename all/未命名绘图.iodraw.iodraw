@@ -1104,7 +1104,7 @@
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-211">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4.6666666666667425" y="7867.214054107666" as="targetPoint" />
+            <mxPoint x="5" y="7840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-211" value="新旧密码是否一致" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1114,10 +1114,10 @@
           <mxGeometry x="88" y="7735" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-216" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="91" y="7803" width="27" height="26" as="geometry" />
+          <mxGeometry x="10.319999999999993" y="7807" width="27" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-217" value="保存修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-58.00333333333327" y="7864.997929026287" width="120" height="60" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-217" value="修改成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-55.00333333333327" y="7842.997929026287" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
