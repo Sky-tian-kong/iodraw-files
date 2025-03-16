@@ -668,7 +668,13 @@
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-99">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-421" y="5558" as="targetPoint" />
+            <mxPoint x="-455" y="5563" as="targetPoint" />
+            <mxPoint x="-387.23" y="5726" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-353" y="5570" />
+              <mxPoint x="-452" y="5570" />
+              <mxPoint x="-452" y="5563" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-99" value="账号和密码是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
