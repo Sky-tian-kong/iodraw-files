@@ -1000,8 +1000,8 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-185" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-367" y="7377" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-188" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-367.3529411764705" y="7453.185049617992" width="120" height="60" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-188" value="修改个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-367.0029411764705" y="7476.995049617993" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
