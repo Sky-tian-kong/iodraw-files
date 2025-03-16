@@ -513,7 +513,10 @@
           <mxGeometry x="-95" y="4014" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-39" value="分库分表服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="4014" width="78" height="40" as="geometry" />
+          <mxGeometry x="145" y="4014" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-40" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-276" y="3964" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
