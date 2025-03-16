@@ -1064,8 +1064,16 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-203" value="修改密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-154" y="7471" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-204" target="WaSGcoQdoSlrRCY8OdyT-206">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4.6666666666667425" y="7592.452192942302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-204" value="填写原密码和新密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-55.00036356608058" y="7475.003333333334" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-206" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-83" y="7602" width="176" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
