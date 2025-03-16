@@ -516,7 +516,7 @@
           <mxGeometry x="145" y="4014" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-40" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="4124" width="120" height="60" as="geometry" />
+          <mxGeometry x="-286" y="4119" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-41" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -536,6 +536,13 @@
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-46" value="COS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="4124" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-47" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-283" y="4093" as="sourcePoint" />
+            <mxPoint x="360" y="4093" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
