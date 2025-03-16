@@ -553,9 +553,9 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-50" value="Tomcat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-118" y="4241" width="376" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-51">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="38.05882352941171" y="4645.537883085363" as="targetPoint" />
+            <mxPoint x="38" y="4652" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-51" value="智能答题应用平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
