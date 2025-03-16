@@ -918,16 +918,8 @@
             <mxPoint x="-2.8333333333332575" y="7176.738539377849" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="471.5000000000002" y="6634" as="targetPoint" />
-            <mxPoint x="120" y="7073" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="229.5" y="7092" />
-              <mxPoint x="229.5" y="7085" />
-              <mxPoint x="471.5" y="7085" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-160" target="WaSGcoQdoSlrRCY8OdyT-166">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-160" value="是否设置题目" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-73.5" y="7048" width="141" height="80" as="geometry" />
@@ -942,7 +934,7 @@
           <mxGeometry x="71" y="7056" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-166" value="创建应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="386" y="6564" width="120" height="60" as="geometry" />
+          <mxGeometry x="216" y="6601" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
