@@ -797,8 +797,8 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-129" value="开始登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-126.99999999999997" y="6013" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-131" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-362" y="6614" width="120" height="60" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-131" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="6541" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
