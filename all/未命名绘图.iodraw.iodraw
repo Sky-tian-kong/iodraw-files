@@ -640,14 +640,22 @@
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-88" target="WaSGcoQdoSlrRCY8OdyT-90">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-467.3529411764705" y="5487.890824261834" as="targetPoint" />
+            <mxPoint x="-274.1729411764705" y="5467.890824261834" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-88" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-527" y="5340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-333.82" y="5320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-274.4117647058822" y="5575.957984475529" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-90" value="是否有账号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-541.1800000000001" y="5467" width="148.35" height="80" as="geometry" />
+          <mxGeometry x="-348.00000000000006" y="5447" width="148.35" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-92" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-309" y="5439" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
