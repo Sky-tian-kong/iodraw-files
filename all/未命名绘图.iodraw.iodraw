@@ -568,11 +568,6 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-126" y="4627" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-302" y="4631" />
-              <mxPoint x="-125" y="4631" />
-              <mxPoint x="-125" y="4627" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-52" value="应用界面显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
