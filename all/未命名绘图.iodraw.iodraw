@@ -1072,7 +1072,7 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-204" value="填写原密码和新密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-55.00036356608058" y="7475.003333333334" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-206">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-206" target="WaSGcoQdoSlrRCY8OdyT-204">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-78" y="7503" as="targetPoint" />
             <mxPoint x="101" y="7602" as="sourcePoint" />
@@ -1080,6 +1080,7 @@
               <mxPoint x="125" y="7642" />
               <mxPoint x="125" y="7463" />
               <mxPoint x="-78" y="7463" />
+              <mxPoint x="-78" y="7475" />
             </Array>
           </mxGeometry>
         </mxCell>
