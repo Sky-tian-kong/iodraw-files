@@ -461,7 +461,10 @@
           <mxGeometry x="-290" y="3751" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-144" y="3662" width="504" height="60" as="geometry" />
+          <mxGeometry x="-154" y="3751" width="504" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-24" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="3672" width="78" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
