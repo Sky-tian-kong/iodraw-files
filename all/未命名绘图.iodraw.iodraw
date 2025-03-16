@@ -1012,8 +1012,8 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-191" value="修改个人信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-303.83" y="7554" width="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-192" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-367.3529411764705" y="7563.437232522404" width="120" height="60" as="geometry" />
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-192" value="填写相应的个人信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-367" y="7600" width="156" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
