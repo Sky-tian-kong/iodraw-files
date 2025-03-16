@@ -568,6 +568,11 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-52" value="应用界面显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-546" y="4713" width="178" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114.52941176470586" y="4638.1427737965305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-53" value="数据可视化分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25.5" y="4713" width="178" height="60" as="geometry" />
         </mxCell>
@@ -602,7 +607,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-71" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;热门应用分仔&lt;/font&gt;" style="rounded=0;html=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="48" y="4832" width="59" height="182" as="geometry" />
+          <mxGeometry x="12" y="4832" width="59" height="182" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-72" target="WaSGcoQdoSlrRCY8OdyT-53">
           <mxGeometry relative="1" as="geometry" />
