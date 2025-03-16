@@ -1077,6 +1077,16 @@
             <mxPoint x="4.6666666666667425" y="7723.880720774334" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-206" target="WaSGcoQdoSlrRCY8OdyT-204">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="7642" />
+              <mxPoint x="129" y="7569" />
+              <mxPoint x="127" y="7569" />
+              <mxPoint x="127" y="7505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-206" value="原密码是否有误" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-83" y="7602" width="176" height="80" as="geometry" />
         </mxCell>
