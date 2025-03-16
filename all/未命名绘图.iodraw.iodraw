@@ -778,7 +778,12 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-125" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-55" y="5880" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-126" value="登录成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-173.28561401367188" y="5602.571220397949" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-126" value="注册成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-128.99999999999997" y="5917" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
