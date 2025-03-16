@@ -961,7 +961,10 @@
           <mxGeometry x="288" y="6737" width="27" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-176" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="396" y="6651" width="26" height="26" as="geometry" />
+          <mxGeometry x="382" y="6651" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-177" value="用户设置题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="6648" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
