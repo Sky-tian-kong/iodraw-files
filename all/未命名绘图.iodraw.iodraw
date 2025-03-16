@@ -992,21 +992,19 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-179" value="题目设置完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="6895" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-185" target="WaSGcoQdoSlrRCY8OdyT-188">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-185">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-307.3529411764705" y="7483.185049617992" as="targetPoint" />
+            <mxPoint x="-307" y="7476.995049617993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-185" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-367" y="7377" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-188">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-307.3529411764705" y="7593.437232522403" as="targetPoint" />
+            <mxPoint x="-307.00294117647036" y="7536.995049617993" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-188" value="修改个人信息or修改密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-367.0029411764705" y="7476.995049617993" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
