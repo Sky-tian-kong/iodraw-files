@@ -933,7 +933,12 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-165" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="71" y="7056" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-166" value="设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-166">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284.66666666666674" y="6635.309299468994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-166" value="设置题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="6538" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
