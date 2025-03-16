@@ -470,7 +470,7 @@
           <mxGeometry x="-34" y="3765" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-26" value="注册模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-24" y="3775" width="78" height="40" as="geometry" />
+          <mxGeometry x="59" y="3765" width="78" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
