@@ -568,7 +568,7 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-52" value="应用界面显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-546" y="4713" width="178" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-53">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-53" target="WaSGcoQdoSlrRCY8OdyT-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="114.52941176470586" y="4638.1427737965305" as="targetPoint" />
           </mxGeometry>
@@ -583,6 +583,11 @@
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-54" value="应用模块设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-326.5" y="4713" width="249.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="347.47058823529414" y="4636.798259061926" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-55" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="258" y="4701" width="178" height="60" as="geometry" />
