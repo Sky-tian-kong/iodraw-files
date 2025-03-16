@@ -646,6 +646,11 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-88" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-333.82" y="5320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-90" target="WaSGcoQdoSlrRCY8OdyT-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150.99996948242188" y="5487" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-90" value="是否有账号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-348.00000000000006" y="5447" width="148.35" height="80" as="geometry" />
         </mxCell>
@@ -718,6 +723,9 @@
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-111" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-333.83" y="6008.997048034668" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-113" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-153.99996948242188" y="5457" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
