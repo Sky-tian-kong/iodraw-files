@@ -891,7 +891,10 @@
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-151">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="147.16689554850268" y="6868.166666666667" as="targetPoint" />
+            <mxPoint x="-3" y="6712" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="84" y="6792" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-151" value="应用信息填写是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
