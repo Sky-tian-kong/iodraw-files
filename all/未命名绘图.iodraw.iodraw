@@ -884,13 +884,16 @@
             <mxPoint x="-2.8333333333332575" y="6947.6903317769375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-153" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WaSGcoQdoSlrRCY8OdyT-152">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-153" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WaSGcoQdoSlrRCY8OdyT-152">
           <mxGeometry x="-0.2284" y="6" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-151" value="应用信息填写是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-73.5" y="6828" width="141" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-154" value="图表显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-338" y="7006" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
