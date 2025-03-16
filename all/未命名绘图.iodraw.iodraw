@@ -391,7 +391,7 @@
             <mxPoint x="954" y="1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-4" value="查看热门应用统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-4" value="修改个人主页" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="951" y="1908" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-5" value="查看应用统计结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
