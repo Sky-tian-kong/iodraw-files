@@ -1072,7 +1072,7 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-204" value="填写原密码和新密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-55.00036356608058" y="7475.003333333334" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-206" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-206" value="原密码是否有误" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-83" y="7602" width="176" height="80" as="geometry" />
         </mxCell>
       </root>
