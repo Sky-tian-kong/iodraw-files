@@ -380,31 +380,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="703" y="1886" width="351" height="251" as="geometry" />
+          <mxGeometry x="889" y="1860" width="351" height="251" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="604" y="2004" width="30" height="60" as="geometry" />
+          <mxGeometry x="783" y="1965" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="633.9999999999999" y="2015.6129032258063" as="sourcePoint" />
-            <mxPoint x="768" y="1996" as="targetPoint" />
+            <mxPoint x="819.9999999999999" y="1989.6129032258063" as="sourcePoint" />
+            <mxPoint x="954" y="1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-4" value="查看热门应用统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="774" y="1954" width="140" height="70" as="geometry" />
+          <mxGeometry x="960" y="1928" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-5" value="查看应用统计结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="779" y="2056" width="140" height="70" as="geometry" />
+          <mxGeometry x="965" y="2030" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="WaSGcoQdoSlrRCY8OdyT-2" target="WaSGcoQdoSlrRCY8OdyT-5" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="643.9999999999999" y="2025.6129032258063" as="sourcePoint" />
-            <mxPoint x="778" y="2006" as="targetPoint" />
+            <mxPoint x="829.9999999999999" y="1999.6129032258063" as="sourcePoint" />
+            <mxPoint x="964" y="1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-7" value="应用可视化分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="812" y="1889" width="102" height="26" as="geometry" />
+          <mxGeometry x="998" y="1863" width="102" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
