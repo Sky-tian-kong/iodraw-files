@@ -1331,6 +1331,9 @@
             <mxPoint x="-188" y="9099" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Cd-cVXlmFco61sl51mRJ-51" value="结果名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-401" y="9297" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
