@@ -1494,7 +1494,7 @@
           <mxGeometry x="65" y="10503" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-92" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;评分结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-481" y="10507" width="120" height="60" as="geometry" />
+          <mxGeometry x="-514" y="10507" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-93" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;题目&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-774" y="10612" width="120" height="60" as="geometry" />
@@ -1540,7 +1540,7 @@
         <mxCell id="Cd-cVXlmFco61sl51mRJ-105" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-705" y="10366" width="33" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Cd-cVXlmFco61sl51mRJ-107" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Cd-cVXlmFco61sl51mRJ-107" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-623.0009642118566" y="10397.003186681412" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
