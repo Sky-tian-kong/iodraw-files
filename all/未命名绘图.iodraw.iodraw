@@ -1488,7 +1488,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-90" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-197" y="8197" width="120" height="60" as="geometry" />
+          <mxGeometry x="-798" y="10069" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd-cVXlmFco61sl51mRJ-91" value="答题记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="132" y="9954" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd-cVXlmFco61sl51mRJ-92" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;评分结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-91" y="10155" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
