@@ -1323,7 +1323,7 @@
           <mxGeometry x="-277" y="9202" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-49" value="评分结果id" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-666" y="9299" width="120" height="80" as="geometry" />
+          <mxGeometry x="-708" y="9417" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-50" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cd-cVXlmFco61sl51mRJ-49" target="Cd-cVXlmFco61sl51mRJ-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1332,7 +1332,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-51" value="结果名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-546" y="9323" width="120" height="80" as="geometry" />
+          <mxGeometry x="-578" y="9417" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cd-cVXlmFco61sl51mRJ-51" target="Cd-cVXlmFco61sl51mRJ-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1341,7 +1341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-53" value="结果描述" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-406" y="9332" width="120" height="80" as="geometry" />
+          <mxGeometry x="-438" y="9417" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-54" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cd-cVXlmFco61sl51mRJ-53" target="Cd-cVXlmFco61sl51mRJ-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
