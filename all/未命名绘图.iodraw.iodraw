@@ -1514,8 +1514,8 @@
         <mxCell id="Cd-cVXlmFco61sl51mRJ-96" value="创建" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-570" y="10269" width="108" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Cd-cVXlmFco61sl51mRJ-98" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-631" y="10276" width="40" height="26" as="geometry" />
+        <mxCell id="Cd-cVXlmFco61sl51mRJ-98" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-627" y="10274" width="27" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
