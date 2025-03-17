@@ -1227,7 +1227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-27" value="审核状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="8545" width="120" height="80" as="geometry" />
+          <mxGeometry x="97" y="8626" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cd-cVXlmFco61sl51mRJ-27" target="Cd-cVXlmFco61sl51mRJ-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1236,7 +1236,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-29" value="审核状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="253.5" y="8561" width="120" height="80" as="geometry" />
+          <mxGeometry x="59" y="8530" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
