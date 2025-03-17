@@ -1528,9 +1528,6 @@
         <mxCell id="Cd-cVXlmFco61sl51mRJ-101" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-754.0011764705882" y="10410.999069034351" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Cd-cVXlmFco61sl51mRJ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.605;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cd-cVXlmFco61sl51mRJ-101" target="Cd-cVXlmFco61sl51mRJ-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
