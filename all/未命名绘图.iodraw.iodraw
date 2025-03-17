@@ -1422,16 +1422,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-74" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;答题记录id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-582" y="9675" width="120" height="80" as="geometry" />
+          <mxGeometry x="-704" y="9607" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-75" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;应用id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440.5" y="9678" width="120" height="80" as="geometry" />
+          <mxGeometry x="-578" y="9633" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-76" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;应用类型&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-316" y="9681" width="120" height="80" as="geometry" />
+          <mxGeometry x="-441" y="9667" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-77" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;评分策略&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-183" y="9678" width="120" height="80" as="geometry" />
+          <mxGeometry x="-316" y="9676" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-78" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户答案&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-52.5" y="9678" width="120" height="80" as="geometry" />
@@ -1439,7 +1439,7 @@
         <mxCell id="Cd-cVXlmFco61sl51mRJ-79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;评分结果&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="9642" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Cd-cVXlmFco61sl51mRJ-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;评分结果&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Cd-cVXlmFco61sl51mRJ-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结果名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="133" y="9565" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
