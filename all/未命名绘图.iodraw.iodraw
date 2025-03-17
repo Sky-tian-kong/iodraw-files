@@ -1434,13 +1434,16 @@
           <mxGeometry x="-316" y="9676" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-78" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户答案&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-52.5" y="9678" width="120" height="80" as="geometry" />
+          <mxGeometry x="-187" y="9676" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;评分结果&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="71" y="9642" width="120" height="80" as="geometry" />
+          <mxGeometry x="-58" y="9667" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cd-cVXlmFco61sl51mRJ-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结果名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="133" y="9565" width="120" height="80" as="geometry" />
+          <mxGeometry x="53" y="9645" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd-cVXlmFco61sl51mRJ-81" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结果描述&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129.5" y="9548" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
