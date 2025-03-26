@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="9gzZEy21qc_mqvWpXqcl">
-    <mxGraphModel dx="2177" dy="1079" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2421" dy="1249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1596,7 +1596,7 @@
           <mxGeometry x="-636" y="-172" width="174" height="59" as="geometry" />
         </mxCell>
         <mxCell id="-QZIaEPgrAusgEDcZwPl-6" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;应用场景：&lt;br&gt;（1）单例模式：需要确保一个类只有一个实例化对象就需要，并提供一个全局访问点的时候，就能用到单例模式。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="31" width="96" height="60" as="geometry" />
+          <mxGeometry x="-546" y="-84.5" width="400" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
