@@ -1580,13 +1580,17 @@
           <mxGeometry x="-1198" y="46" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-QZIaEPgrAusgEDcZwPl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QZIaEPgrAusgEDcZwPl-2" target="-QZIaEPgrAusgEDcZwPl-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-706" y="-142" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-QZIaEPgrAusgEDcZwPl-2" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、回答重点&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-793" y="-57" width="96" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-QZIaEPgrAusgEDcZwPl-4" value="&lt;div style=&quot;text-align: start;&quot;&gt;工作中常用的就是单例、简单工厂、策略、模版等设计模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-617" y="-57" width="174" height="59" as="geometry" />
+          <mxGeometry x="-636" y="-172" width="174" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
