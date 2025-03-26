@@ -1577,7 +1577,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-QZIaEPgrAusgEDcZwPl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QZIaEPgrAusgEDcZwPl-1" target="-QZIaEPgrAusgEDcZwPl-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1027" y="347" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-QZIaEPgrAusgEDcZwPl-1" value="&lt;span style=&quot;text-align: start; font-size: 15px;&quot;&gt;谈谈你了解的最常见的几种设计模式，说说他们的应用场景&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 15px;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-1198" y="46" width="226" height="60" as="geometry" />
@@ -1601,7 +1605,7 @@
         <mxCell id="-QZIaEPgrAusgEDcZwPl-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;应用场景：&lt;br&gt;（1）单例模式：需要确保一个类只有一个实例化对象就需要，并提供一个全局访问点的时候，就能用到单例模式。eg：配置管理器或者全局缓存，例如数据库连接池&lt;br&gt;（2）多种设计模式组合使用，比如支付场景：&lt;/span&gt;需要对接不同的支付渠道：支付宝、微信、易宝支付、连连支付等等&lt;br&gt;不同渠道对应不同的策略，天然适合策略模式。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-554" y="-103.25" width="436" height="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="-QZIaEPgrAusgEDcZwPl-8" value="&lt;span style=&quot;text-align: start; font-size: 15px;&quot;&gt;谈谈你了解的最常见的几种设计模式，说说他们的应用场景&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 15px;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="-QZIaEPgrAusgEDcZwPl-8" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、代码列举&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-958" y="317" width="226" height="60" as="geometry" />
         </mxCell>
       </root>
