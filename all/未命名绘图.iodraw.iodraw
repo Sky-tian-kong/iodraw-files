@@ -1595,8 +1595,8 @@
         <mxCell id="-QZIaEPgrAusgEDcZwPl-4" value="&lt;div style=&quot;text-align: start;&quot;&gt;工作中常用的就是单例、简单工厂、策略、模版等设计模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-636" y="-172" width="174" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="-QZIaEPgrAusgEDcZwPl-6" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;应用场景：&lt;br&gt;（1）单例模式：需要确保一个类只有一个实例化对象就需要，并提供一个全局访问点的时候，就能用到单例模式。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-546" y="-84.5" width="400" height="115" as="geometry" />
+        <mxCell id="-QZIaEPgrAusgEDcZwPl-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;应用场景：&lt;br&gt;（1）单例模式：需要确保一个类只有一个实例化对象就需要，并提供一个全局访问点的时候，就能用到单例模式。eg：配置管理器或者全局缓存，例如数据库连接池&lt;br&gt;（2）多种设计模式组合使用，比如支付场景：&lt;/span&gt;需要对接不同的支付渠道：支付宝、微信、易宝支付、连连支付等等&lt;br&gt;不同渠道对应不同的策略，天然适合策略模式。。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-546" y="-84.5" width="436" height="152.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
