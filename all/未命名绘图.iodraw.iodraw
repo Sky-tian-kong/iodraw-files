@@ -1837,8 +1837,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E_kZswrr_-1NP9D8N0Wx-56" value="答案提交" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-56" value="审核应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="401" y="2497" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-57" value="审核应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411" y="2507" width="96" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
