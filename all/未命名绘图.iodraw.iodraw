@@ -252,7 +252,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-30" value="智能答题应用平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="237" y="2497" width="114" height="26" as="geometry" />
+          <mxGeometry x="243.5" y="2447" width="114" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1004.5" y="2759" width="444.5" height="338" as="geometry" />
@@ -1844,7 +1844,7 @@
           <mxGeometry x="401" y="2559" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-58" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1998" width="84" height="26" as="geometry" />
+          <mxGeometry x="254" y="2519" width="84" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
