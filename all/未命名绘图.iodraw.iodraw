@@ -166,7 +166,7 @@
             <mxPoint x="214" y="1359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-6" value="创建应用" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-6" value="应用管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="179" y="1350" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-8" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-6" target="XpfKUMwM36LwxsHVW_NN-9" edge="1">
