@@ -1744,8 +1744,15 @@
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-29" value="应用题目作答" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="169" y="1975" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="E_kZswrr_-1NP9D8N0Wx-30" value="删除评论" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-30" value="回答应用题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="428" y="1985" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-31" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
+            <mxPoint x="319" y="1943" as="sourcePoint" />
+            <mxPoint x="440" y="1948" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
