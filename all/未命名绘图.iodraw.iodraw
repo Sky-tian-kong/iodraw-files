@@ -242,7 +242,7 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-24" value="应用管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="99" y="2599" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-25" value="用户信息挂历" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-25" value="用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="98" y="2682" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-22" target="XpfKUMwM36LwxsHVW_NN-25" edge="1">
@@ -1796,6 +1796,9 @@
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-48" value="回答管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="89" y="2998" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-49" value="回答管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="3008" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
