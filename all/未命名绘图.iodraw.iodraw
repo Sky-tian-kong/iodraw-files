@@ -1628,7 +1628,14 @@
           <mxGeometry x="451" y="1477" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-3" value="新增题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="461" y="1487" width="96" height="50" as="geometry" />
+          <mxGeometry x="451" y="1532" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-4" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XpfKUMwM36LwxsHVW_NN-21" target="E_kZswrr_-1NP9D8N0Wx-3">
+          <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
+            <mxPoint x="299" y="1493" as="sourcePoint" />
+            <mxPoint x="462" y="1508" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
