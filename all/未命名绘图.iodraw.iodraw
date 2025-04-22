@@ -166,7 +166,7 @@
             <mxPoint x="204" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-6" value="应用管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-6" value="个人应用管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="169" y="1421" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-8" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-6" target="XpfKUMwM36LwxsHVW_NN-9" edge="1">
@@ -1742,7 +1742,7 @@
           <mxGeometry x="322" y="1942" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-29" value="应用作答" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="2000" width="140" height="70" as="geometry" />
+          <mxGeometry x="169" y="1980" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
