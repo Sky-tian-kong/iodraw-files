@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="9gzZEy21qc_mqvWpXqcl">
-    <mxGraphModel dx="2421" dy="1249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2177" dy="1079" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="-154" y="3652" width="437" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="126" y="2470" width="351" height="251" as="geometry" />
+          <mxGeometry x="126" y="2470" width="359" height="478" as="geometry" />
         </mxCell>
         <mxCell id="QthPK9b_DzBB8eTIxNUP-2" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 24px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;rgba(255, 255, 255, 0.85)&quot;&gt;&lt;b&gt;MySQL 中的回表是什么？&lt;br&gt;答:回表是使用二级索引作为条件进行查询时，由于二级索引只存储了索引字段的值和对应的主键，无法获取完整数据。若还需要查询其他数据，则需要根据主键去聚簇索引再次查询其他数据，这个过程称为回表。&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="406" y="31" width="781" height="187" as="geometry" />
@@ -255,83 +255,83 @@
           <mxGeometry x="340" y="2480" width="102" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="236" y="2758" width="444.5" height="338" as="geometry" />
+          <mxGeometry x="1004.5" y="2759" width="444.5" height="338" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-35" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="2899" width="30" height="60" as="geometry" />
+          <mxGeometry x="888.5" y="2900" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-36" value="创建应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="419" y="2762" width="66" height="26" as="geometry" />
+          <mxGeometry x="1187.5" y="2763" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.748;exitY=0.541;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-35" target="XpfKUMwM36LwxsHVW_NN-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="197" y="2917" as="sourcePoint" />
-            <mxPoint x="279" y="2891" as="targetPoint" />
+            <mxPoint x="965.5" y="2918" as="sourcePoint" />
+            <mxPoint x="1047.5" y="2892" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-38" value="创建应用" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="244" y="2882" width="140" height="70" as="geometry" />
+          <mxGeometry x="1012.5" y="2883" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-39" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-38" target="XpfKUMwM36LwxsHVW_NN-40" edge="1">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
-            <mxPoint x="350" y="2977" as="sourcePoint" />
-            <mxPoint x="458" y="2884" as="targetPoint" />
+            <mxPoint x="1118.5" y="2978" as="sourcePoint" />
+            <mxPoint x="1226.5" y="2885" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-40" value="设置应用名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="523" y="2818" width="92" height="57" as="geometry" />
+          <mxGeometry x="1291.5" y="2819" width="92" height="57" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-41" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="359" y="2849" width="84" height="26" as="geometry" />
+          <mxGeometry x="1127.5" y="2850" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-42" value="设置应用类型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="521" y="2889" width="96" height="50" as="geometry" />
+          <mxGeometry x="1289.5" y="2890" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-43" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="410" y="2889" width="84" height="26" as="geometry" />
+          <mxGeometry x="1178.5" y="2890" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-44" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-38" target="XpfKUMwM36LwxsHVW_NN-42" edge="1">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
-            <mxPoint x="397" y="2915" as="sourcePoint" />
-            <mxPoint x="520" y="2892" as="targetPoint" />
+            <mxPoint x="1165.5" y="2916" as="sourcePoint" />
+            <mxPoint x="1288.5" y="2893" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-45" value="设置应用评分" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="521" y="2956" width="96" height="50" as="geometry" />
+          <mxGeometry x="1289.5" y="2957" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-46" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.668;exitY=0.948;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-38" target="XpfKUMwM36LwxsHVW_NN-45" edge="1">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
-            <mxPoint x="376" y="2940" as="sourcePoint" />
-            <mxPoint x="531" y="2960" as="targetPoint" />
+            <mxPoint x="1144.5" y="2941" as="sourcePoint" />
+            <mxPoint x="1299.5" y="2961" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-47" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="420" y="2939" width="84" height="26" as="geometry" />
+          <mxGeometry x="1188.5" y="2940" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-48" value="设置应用题目" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="523" y="3017" width="96" height="50" as="geometry" />
+          <mxGeometry x="1291.5" y="3018" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-49" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-38" target="XpfKUMwM36LwxsHVW_NN-48" edge="1">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
-            <mxPoint x="351" y="2946" as="sourcePoint" />
-            <mxPoint x="533" y="3036" as="targetPoint" />
+            <mxPoint x="1119.5" y="2947" as="sourcePoint" />
+            <mxPoint x="1301.5" y="3037" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-50" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="420" y="2980" width="84" height="26" as="geometry" />
+          <mxGeometry x="1188.5" y="2981" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0.684;exitY=0.604;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="207" y="2927" as="sourcePoint" />
-            <mxPoint x="243" y="3003" as="targetPoint" />
+            <mxPoint x="975.5" y="2928" as="sourcePoint" />
+            <mxPoint x="1011.5" y="3004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-52" value="搜索模糊查询" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="244" y="2988" width="140" height="70" as="geometry" />
+          <mxGeometry x="1012.5" y="2989" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-53" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;color: rgb(69, 69, 69); font-family: 微软雅黑; background-color: initial; font-size: 24px;&quot;&gt;MySQL 中的 MVCC 是什么?&lt;/b&gt;&lt;/div&gt;&lt;font face=&quot;微软雅黑&quot; color=&quot;#454545&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;答：&lt;br&gt;&amp;nbsp; &amp;nbsp; MVCC(&lt;/b&gt;&lt;b style=&quot;&quot;&gt;Multi-Version Concurrency Control&lt;/b&gt;&lt;b style=&quot;&quot;&gt;)时一种多版本并发控制机制，允许多个事务同时读取和写入数据库，而不用互相等待，提高了数据库的并发性能。&lt;br&gt;&amp;nbsp; &amp;nbsp; 在MVCC中，数据库会为每个事务创建一个数据快照。每当数据修改时，MySQL不会立即覆盖原有数据，而是创建一个新版本的数据记录。每个记录都保留了对应的版本号或者时间戳。&lt;br&gt;&amp;nbsp; &amp;nbsp; 多版本之间就串联起来形成了一条版本链，这样不同时刻启动的事务就可以无锁得获得不同版本的数据(普通读)。此时读(普通读)写操作不会阻塞。&lt;br&gt;&amp;nbsp; &amp;nbsp; 写操作可以继续写，只不过就是会创建新的数据版本(但只有在事务提交后，新版本才会对其他事务可见。未提交的事务修改不会影响其他事务的读取)，历史版本记录可供已经启动的事务读取。&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="821" y="3306" width="748" height="349" as="geometry" />
