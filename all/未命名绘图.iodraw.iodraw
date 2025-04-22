@@ -228,7 +228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-21" value="个人应用题目管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="169" y="1498" width="140" height="70" as="geometry" />
+          <mxGeometry x="169" y="1492" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-22" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="132" y="2595" width="30" height="60" as="geometry" />
@@ -1758,7 +1758,7 @@
           <mxGeometry x="338" y="1944" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-33" value="答案提交" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="428" y="2045" width="96" height="50" as="geometry" />
+          <mxGeometry x="437" y="2031" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-36" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="E_kZswrr_-1NP9D8N0Wx-29" target="E_kZswrr_-1NP9D8N0Wx-33">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
