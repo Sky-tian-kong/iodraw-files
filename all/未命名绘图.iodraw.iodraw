@@ -1744,6 +1744,9 @@
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-29" value="应用作答" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="169" y="1975" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-30" value="删除评论" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1982" width="96" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
