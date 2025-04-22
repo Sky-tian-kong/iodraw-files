@@ -1757,7 +1757,7 @@
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-32" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="322" y="1965" width="84" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="E_kZswrr_-1NP9D8N0Wx-33" value="作答结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-33" value="答案提交" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="428" y="2045" width="96" height="50" as="geometry" />
         </mxCell>
       </root>
