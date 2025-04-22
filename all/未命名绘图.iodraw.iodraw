@@ -155,7 +155,7 @@
           <mxGeometry x="1020" y="925" width="679" height="145" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-89" y="1574.5" width="35" height="64.5" as="geometry" />
+          <mxGeometry x="-108.5" y="1647" width="35" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-5" value="智能答题应用平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="292" y="1290" width="114" height="26" as="geometry" />
@@ -228,7 +228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-21" value="题目管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1544" width="140" height="70" as="geometry" />
+          <mxGeometry x="169" y="1540" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-22" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="132" y="2595" width="30" height="60" as="geometry" />
