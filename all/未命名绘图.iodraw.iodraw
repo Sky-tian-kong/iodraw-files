@@ -1689,15 +1689,18 @@
             <mxPoint x="190" y="1832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E_kZswrr_-1NP9D8N0Wx-17" value="删除题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="432" y="1760" width="96" height="50" as="geometry" />
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-17" value="修改头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="1736" width="96" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E_kZswrr_-1NP9D8N0Wx-18" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-18" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.937;exitY=0.224;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="E_kZswrr_-1NP9D8N0Wx-11" target="E_kZswrr_-1NP9D8N0Wx-17">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
             <mxPoint x="240" y="1624" as="sourcePoint" />
             <mxPoint x="451" y="1691" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-19" value="修改头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="442" y="1746" width="96" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
