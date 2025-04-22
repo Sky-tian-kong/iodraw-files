@@ -188,7 +188,7 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="341" y="1324" width="84" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-13" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-6" target="XpfKUMwM36LwxsHVW_NN-11" edge="1">
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-13" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-6" target="XpfKUMwM36LwxsHVW_NN-11" edge="1">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
             <mxPoint x="332" y="1383" as="sourcePoint" />
             <mxPoint x="455" y="1360" as="targetPoint" />
@@ -196,9 +196,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-14" value="删除应用" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="471" y="1383" width="96" height="50" as="geometry" />
+          <mxGeometry x="456" y="1362" width="96" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-15" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.668;exitY=0.948;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-6" target="XpfKUMwM36LwxsHVW_NN-14" edge="1">
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-15" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-6" target="XpfKUMwM36LwxsHVW_NN-14" edge="1">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
             <mxPoint x="311" y="1408" as="sourcePoint" />
             <mxPoint x="466" y="1428" as="targetPoint" />
@@ -209,7 +209,7 @@
           <mxGeometry x="355" y="1407" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-17" value="查询应用" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="471" y="1438" width="96" height="50" as="geometry" />
+          <mxGeometry x="451" y="1416" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-18" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-6" target="XpfKUMwM36LwxsHVW_NN-17" edge="1">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
