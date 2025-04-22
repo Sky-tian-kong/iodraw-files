@@ -1882,8 +1882,8 @@
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-68" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="252" y="2698" width="84" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="E_kZswrr_-1NP9D8N0Wx-69" value="修改用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="2816" width="96" height="50" as="geometry" />
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-69" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="2800" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-70" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="E_kZswrr_-1NP9D8N0Wx-46" target="E_kZswrr_-1NP9D8N0Wx-69">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
@@ -1891,6 +1891,9 @@
             <mxPoint x="389" y="2740" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-71" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="258" y="2812" width="84" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
