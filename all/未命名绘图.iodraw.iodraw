@@ -242,7 +242,7 @@
         <mxCell id="XpfKUMwM36LwxsHVW_NN-24" value="应用管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="99" y="2599" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-25" value="查看应用统计结果" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-25" value="用户信息挂历" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="98" y="2682" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-22" target="XpfKUMwM36LwxsHVW_NN-25" edge="1">
@@ -1784,6 +1784,9 @@
             <mxPoint x="-63" y="1679" as="sourcePoint" />
             <mxPoint x="179" y="1543" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-45" value="用户信息挂历" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="2763" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
