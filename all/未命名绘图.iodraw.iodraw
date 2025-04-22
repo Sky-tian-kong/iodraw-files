@@ -1657,13 +1657,13 @@
           <mxGeometry x="169" y="1613" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-10" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="1726" width="140" height="70" as="geometry" />
+          <mxGeometry x="169" y="1697" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-11" value="用户账号管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="1804" width="140" height="70" as="geometry" />
+          <mxGeometry x="172" y="1777" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-12" value="应用评论管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="1895" width="140" height="70" as="geometry" />
+          <mxGeometry x="172" y="1855" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-13" value="" style="endArrow=classicThin;html=1;rounded=0;endFill=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XpfKUMwM36LwxsHVW_NN-1" target="E_kZswrr_-1NP9D8N0Wx-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1716,7 +1716,7 @@
           <mxGeometry x="312" y="1760" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="331" y="1804" width="84" height="26" as="geometry" />
+          <mxGeometry x="330" y="1786" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-24" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.978;exitY=0.345;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="E_kZswrr_-1NP9D8N0Wx-12" target="E_kZswrr_-1NP9D8N0Wx-21">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
@@ -1729,7 +1729,7 @@
           <mxGeometry x="430" y="1915" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-26" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1869" width="84" height="26" as="geometry" />
+          <mxGeometry x="330" y="1847" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-27" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="E_kZswrr_-1NP9D8N0Wx-12" target="E_kZswrr_-1NP9D8N0Wx-25">
           <mxGeometry x="0.9125" y="74" width="160" relative="1" as="geometry">
