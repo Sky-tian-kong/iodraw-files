@@ -1856,6 +1856,9 @@
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-60" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="299" y="2566" width="84" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-61" value="删除应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411" y="2569" width="96" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
