@@ -155,10 +155,10 @@
           <mxGeometry x="1020" y="925" width="679" height="145" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-44" y="1515" width="30" height="60" as="geometry" />
+          <mxGeometry x="-44" y="1515" width="49" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-5" value="智能答题应用平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1230" width="114" height="26" as="geometry" />
+          <mxGeometry x="249" y="1268" width="114" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-2" value="" style="endArrow=classicThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;" parent="1" source="XpfKUMwM36LwxsHVW_NN-1" target="XpfKUMwM36LwxsHVW_NN-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
