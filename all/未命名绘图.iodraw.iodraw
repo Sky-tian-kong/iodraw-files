@@ -240,12 +240,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-24" value="查看热门应用统计" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="99" y="2557" width="140" height="70" as="geometry" />
+          <mxGeometry x="99" y="2599" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-25" value="查看应用统计结果" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="99" y="2656" width="140" height="70" as="geometry" />
+          <mxGeometry x="98" y="2682" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XpfKUMwM36LwxsHVW_NN-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="XpfKUMwM36LwxsHVW_NN-25" edge="1">
+        <mxCell id="XpfKUMwM36LwxsHVW_NN-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XpfKUMwM36LwxsHVW_NN-22" target="XpfKUMwM36LwxsHVW_NN-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="39" y="2744" as="sourcePoint" />
             <mxPoint x="306" y="2597" as="targetPoint" />
