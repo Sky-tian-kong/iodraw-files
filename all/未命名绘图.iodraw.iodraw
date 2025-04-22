@@ -1919,7 +1919,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-78" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="271" y="2900" width="84" height="26" as="geometry" />
+          <mxGeometry x="273.5" y="2931" width="84" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-79" value="修改评论" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="3026" width="96" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
