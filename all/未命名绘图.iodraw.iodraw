@@ -1709,14 +1709,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E_kZswrr_-1NP9D8N0Wx-21" value="修改密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="479" y="1904" width="96" height="50" as="geometry" />
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428" y="1876" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-22" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="312" y="1760" width="84" height="26" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="322" y="1770" width="84" height="26" as="geometry" />
+          <mxGeometry x="331" y="1804" width="84" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
