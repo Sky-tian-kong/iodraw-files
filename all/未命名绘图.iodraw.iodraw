@@ -2144,7 +2144,7 @@
           <mxGeometry x="1048.5" y="7972" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-92" value="题目是否全部填写完毕" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="8170" width="141" height="80" as="geometry" />
+          <mxGeometry x="1038" y="8177" width="141" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-93" value="创建成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1042.5" y="8399" width="120" height="60" as="geometry" />
@@ -2162,7 +2162,7 @@
           <mxGeometry x="1042.5" y="8487.004164733888" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-97" value="系统提示信息有误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="8289" width="120" height="60" as="geometry" />
+          <mxGeometry x="1246" y="8189" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-98" target="XrpJp7BYSiqqD0loBoWq-92">
           <mxGeometry relative="1" as="geometry" />
