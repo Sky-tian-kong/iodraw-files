@@ -2072,7 +2072,7 @@
           <mxGeometry x="765.5" y="7016" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-61" value="AI生成题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="822.5" y="7016" width="120" height="60" as="geometry" />
+          <mxGeometry x="849" y="7016" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-62" value="题目设置完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610.5" y="7494" width="120" height="60" as="geometry" />
