@@ -2048,10 +2048,11 @@
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="948" y="7276" as="targetPoint" />
+            <mxPoint x="1029" y="7161" as="targetPoint" />
             <mxPoint x="882.15" y="7068.18" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="882.15" y="7236.18" />
+              <mxPoint x="882" y="7142" />
+              <mxPoint x="1029" y="7142" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2092,8 +2093,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="833" y="7221" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="834" y="7402" />
-              <mxPoint x="834" y="7221" />
+              <mxPoint x="919" y="7402" />
+              <mxPoint x="919" y="7221" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2110,7 +2111,7 @@
           <mxGeometry x="764.5" y="7369" width="27" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-73" value="系统提示信息有误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="795.5" y="7569" width="120" height="60" as="geometry" />
+          <mxGeometry x="795.5" y="7401" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
