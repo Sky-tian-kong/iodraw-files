@@ -2099,13 +2099,8 @@
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="983" y="7314" as="targetPoint" />
+            <mxPoint x="551" y="7229" as="targetPoint" />
             <mxPoint x="870" y="7372" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="464" y="7262" />
-              <mxPoint x="869" y="7262" />
-              <mxPoint x="869" y="7238" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-73" value="系统提示信息有误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
