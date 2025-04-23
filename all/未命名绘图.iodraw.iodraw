@@ -1911,22 +1911,22 @@
           <mxGeometry x="443" y="4538" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-6" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;应用管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-498" y="4774" width="76" height="155" as="geometry" />
+          <mxGeometry x="-599" y="4779" width="76" height="155" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-7" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;用户管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-394" y="4774" width="76" height="155" as="geometry" />
+          <mxGeometry x="-495" y="4779" width="76" height="155" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-9" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;题目管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-302" y="4774" width="76" height="155" as="geometry" />
+          <mxGeometry x="-403" y="4779" width="76" height="155" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-11" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;评论管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-203" y="4774" width="76" height="155" as="geometry" />
+          <mxGeometry x="-304" y="4779" width="76" height="155" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-13" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;回答管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="4774" width="76" height="155" as="geometry" />
+          <mxGeometry x="-206" y="4779" width="76" height="155" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-15" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;应用统计&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-7" y="4774" width="76" height="155" as="geometry" />
+          <mxGeometry x="-108" y="4779" width="76" height="155" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-17" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;应用统计&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
           <mxGeometry x="157" y="4771" width="76" height="155" as="geometry" />
