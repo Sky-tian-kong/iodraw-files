@@ -1889,6 +1889,9 @@
             <mxPoint x="-218.41176470588243" y="4816.966644287109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-1" target="XrpJp7BYSiqqD0loBoWq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-278" y="4651" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1899,7 +1902,7 @@
           <mxGeometry x="-498" y="4774" width="76" height="155" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-7" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;应用管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-488" y="4784" width="76" height="155" as="geometry" />
+          <mxGeometry x="-394" y="4774" width="76" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
