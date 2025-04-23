@@ -2153,7 +2153,7 @@
           <mxGeometry x="1038" y="8177" width="141" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-93" value="创建成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1042.5" y="8399" width="120" height="60" as="geometry" />
+          <mxGeometry x="1048.5" y="8329" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-94" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1206" y="8187" width="27" height="26" as="geometry" />
@@ -2184,6 +2184,9 @@
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-98" value="回答题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1048.5" y="8069" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-106" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="8288" width="26" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
