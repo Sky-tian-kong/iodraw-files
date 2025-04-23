@@ -1895,7 +1895,7 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="4651" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;应用管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;应用管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;spacingTop=1;" vertex="1" parent="1">
           <mxGeometry x="-498" y="4774" width="76" height="155" as="geometry" />
         </mxCell>
       </root>
