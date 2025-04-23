@@ -2106,8 +2106,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="464" y="7217.269658406576" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="468" y="7253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-73" value="系统提示信息有误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347" y="7362" width="120" height="60" as="geometry" />
+          <mxGeometry x="404" y="7372" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-76" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610.5" y="7595.004164733887" width="120" height="60" as="geometry" />
