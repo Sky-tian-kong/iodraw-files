@@ -2106,9 +2106,9 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-72" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="764.5" y="7369" width="27" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-73">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="684" y="7238" as="targetPoint" />
+            <mxPoint x="662" y="7238" as="targetPoint" />
             <Array as="points">
               <mxPoint x="871" y="7262" />
             </Array>
