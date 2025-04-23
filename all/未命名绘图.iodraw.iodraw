@@ -2101,6 +2101,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="551" y="7229" as="targetPoint" />
             <mxPoint x="870" y="7372" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="464" y="7229" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-73" value="系统提示信息有误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
