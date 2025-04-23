@@ -2123,9 +2123,6 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-76" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610.5" y="7595.004164733887" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-78" value="填写生成的题目个数与选项个数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="969" y="7286" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
