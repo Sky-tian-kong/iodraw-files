@@ -556,7 +556,7 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-51" target="XrpJp7BYSiqqD0loBoWq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-51" target="XrpJp7BYSiqqD0loBoWq-3">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaSGcoQdoSlrRCY8OdyT-51" target="XrpJp7BYSiqqD0loBoWq-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-51" value="智能答题应用平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=0" parent="1" vertex="1">
@@ -1883,6 +1883,11 @@
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-87" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="266" y="3150" width="84" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-218.41176470588243" y="4816.966644287109" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-278" y="4651" width="120" height="60" as="geometry" />
