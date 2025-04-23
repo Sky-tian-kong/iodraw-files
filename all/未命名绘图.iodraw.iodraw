@@ -2061,11 +2061,12 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-60" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="765.5" y="7016" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-61">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="674" y="7233" as="targetPoint" />
+            <mxPoint x="674" y="7230" as="targetPoint" />
+            <mxPoint x="879" y="7073" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="879" y="7233" />
+              <mxPoint x="879" y="7230" />
             </Array>
           </mxGeometry>
         </mxCell>
