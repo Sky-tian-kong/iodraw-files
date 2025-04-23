@@ -2187,7 +2187,7 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-97" value="系统提示信息有误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="8289" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-98" value="进入应用详情页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-98" value="开始作答" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1048.5" y="8054" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
