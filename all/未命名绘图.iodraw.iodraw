@@ -2074,7 +2074,7 @@
           <mxGeometry x="822.5" y="7016" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-62" value="题目设置完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610.5" y="7415" width="120" height="60" as="geometry" />
+          <mxGeometry x="610.5" y="7494" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-63" target="XrpJp7BYSiqqD0loBoWq-56">
           <mxGeometry relative="1" as="geometry" />
@@ -2084,6 +2084,9 @@
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-65" value="填写题目信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610.5" y="7256" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-66" value="是否使用AI生成题目" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="591" y="7375" width="177" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
