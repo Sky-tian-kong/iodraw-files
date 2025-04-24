@@ -2260,6 +2260,9 @@
         <mxCell id="E4gPQooRId8N5zptbnyn-18" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-571.5" y="10280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E4gPQooRId8N5zptbnyn-20" value="创建" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-666" y="10354" width="108" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
