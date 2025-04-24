@@ -2257,6 +2257,9 @@
         <mxCell id="E4gPQooRId8N5zptbnyn-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="E4gPQooRId8N5zptbnyn-18" target="Cd-cVXlmFco61sl51mRJ-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="E4gPQooRId8N5zptbnyn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E4gPQooRId8N5zptbnyn-18" target="Cd-cVXlmFco61sl51mRJ-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E4gPQooRId8N5zptbnyn-18" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-571.5" y="10280" width="120" height="60" as="geometry" />
         </mxCell>
