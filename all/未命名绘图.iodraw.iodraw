@@ -2179,8 +2179,8 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-106" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1118.5" y="8273" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="E4gPQooRId8N5zptbnyn-1" value="答题记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-262.2" y="9578" width="120" height="60" as="geometry" />
+        <mxCell id="E4gPQooRId8N5zptbnyn-1" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="9956" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
