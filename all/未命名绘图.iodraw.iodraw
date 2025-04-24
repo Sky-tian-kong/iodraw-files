@@ -2257,7 +2257,7 @@
         <mxCell id="E4gPQooRId8N5zptbnyn-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="E4gPQooRId8N5zptbnyn-18" target="Cd-cVXlmFco61sl51mRJ-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E4gPQooRId8N5zptbnyn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E4gPQooRId8N5zptbnyn-18" target="Cd-cVXlmFco61sl51mRJ-90">
+        <mxCell id="E4gPQooRId8N5zptbnyn-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="E4gPQooRId8N5zptbnyn-18" target="Cd-cVXlmFco61sl51mRJ-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E4gPQooRId8N5zptbnyn-18" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
@@ -2271,6 +2271,9 @@
         </mxCell>
         <mxCell id="E4gPQooRId8N5zptbnyn-22" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-709.5" y="10388" width="28" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="E4gPQooRId8N5zptbnyn-24" value="创建" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="10336" width="108" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
