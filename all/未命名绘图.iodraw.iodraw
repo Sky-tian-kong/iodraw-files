@@ -2272,8 +2272,8 @@
         <mxCell id="E4gPQooRId8N5zptbnyn-22" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-709.5" y="10388" width="28" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="E4gPQooRId8N5zptbnyn-24" value="创建" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="10336" width="108" height="80" as="geometry" />
+        <mxCell id="E4gPQooRId8N5zptbnyn-24" value="发布" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-442" y="10330" width="108" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
