@@ -2354,6 +2354,9 @@
         <mxCell id="qavm2XYwfONDXoyIS46i-50" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="453.5" y="7743" width="121" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qavm2XYwfONDXoyIS46i-51" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="7753" width="121" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
