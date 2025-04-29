@@ -2356,10 +2356,8 @@
             <mxPoint x="1554.5" y="7842" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qavm2XYwfONDXoyIS46i-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" source="qavm2XYwfONDXoyIS46i-59" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1558.6666666666667" y="7980.118859608969" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="qavm2XYwfONDXoyIS46i-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="qavm2XYwfONDXoyIS46i-59" target="qavm2XYwfONDXoyIS46i-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-59" value="数据库查询" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1498.5" y="7875" width="120" height="60" as="geometry" />
@@ -2368,7 +2366,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-61" value="按应用id分组" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1706" y="7879" width="120" height="60" as="geometry" />
+          <mxGeometry x="1661" y="7875" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" source="qavm2XYwfONDXoyIS46i-75" target="qavm2XYwfONDXoyIS46i-65" parent="1">
           <mxGeometry relative="1" as="geometry">
