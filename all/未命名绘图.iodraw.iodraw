@@ -1810,13 +1810,11 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-27" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;应用题目作答&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;spacingTop=0;spacingBottom=0;" parent="1" vertex="1">
           <mxGeometry x="719.5" y="4785" width="76" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XrpJp7BYSiqqD0loBoWq-30" edge="1">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="514.5" y="7834" as="targetPoint" />
+            <mxPoint x="514.5" y="7802" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-30" value="开始" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="454.5" y="7742" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XrpJp7BYSiqqD0loBoWq-32" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2353,8 +2351,8 @@
         <mxCell id="qavm2XYwfONDXoyIS46i-47" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-520" y="3179" width="84" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="qavm2XYwfONDXoyIS46i-50" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="326" y="8025" width="100" height="60" as="geometry" />
+        <mxCell id="qavm2XYwfONDXoyIS46i-50" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="7743" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
