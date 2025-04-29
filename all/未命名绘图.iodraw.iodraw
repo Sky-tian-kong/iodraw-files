@@ -2407,8 +2407,8 @@
         <mxCell id="qavm2XYwfONDXoyIS46i-74" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1501" y="8409" width="117.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="qavm2XYwfONDXoyIS46i-75" value="回答数量统计" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1508.5" y="8090" width="120" height="60" as="geometry" />
+        <mxCell id="qavm2XYwfONDXoyIS46i-75" value="选择条形图" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1498.5" y="8182" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
