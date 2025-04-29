@@ -2370,13 +2370,7 @@
         <mxCell id="qavm2XYwfONDXoyIS46i-61" value="按应用id分组" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1498.5" y="7983" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qavm2XYwfONDXoyIS46i-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1629" y="8228" as="sourcePoint" />
-            <mxPoint x="1710" y="8228" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qavm2XYwfONDXoyIS46i-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" target="qavm2XYwfONDXoyIS46i-65" parent="1">
+        <mxCell id="qavm2XYwfONDXoyIS46i-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" source="qavm2XYwfONDXoyIS46i-75" target="qavm2XYwfONDXoyIS46i-65" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1558.5" y="8268" as="sourcePoint" />
           </mxGeometry>
@@ -2397,9 +2391,6 @@
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-71" value="回答数量统计" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1498.5" y="8080" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qavm2XYwfONDXoyIS46i-72" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1568.5" y="8284" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-73" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1493" y="7781" width="117.5" height="61" as="geometry" />
