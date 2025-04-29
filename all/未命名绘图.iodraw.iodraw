@@ -1471,7 +1471,7 @@
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-10" value="注册" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="169" y="1669" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="E_kZswrr_-1NP9D8N0Wx-11" value="用户账号管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="E_kZswrr_-1NP9D8N0Wx-11" value="管理用户账号信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="169" y="1777" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-12" value="应用评论管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
