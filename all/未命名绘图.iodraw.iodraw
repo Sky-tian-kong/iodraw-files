@@ -2404,13 +2404,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-78" value="动态数据更新" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1498.5" y="7960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1498.5" y="7966" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="qavm2XYwfONDXoyIS46i-80" target="qavm2XYwfONDXoyIS46i-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-80" value="展示最终结果" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1658" y="8244" width="120" height="60" as="geometry" />
+          <mxGeometry x="1498.5" y="8061" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
