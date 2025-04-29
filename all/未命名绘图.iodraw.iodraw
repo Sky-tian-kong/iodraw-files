@@ -2004,7 +2004,7 @@
             <mxPoint x="1102.5" y="8579" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-96" value="结束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-96" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1048.5" y="8400.004164733888" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="XrpJp7BYSiqqD0loBoWq-97" edge="1">
@@ -2358,6 +2358,9 @@
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-55" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1043" y="7770" width="117.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="qavm2XYwfONDXoyIS46i-56" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1327.25" y="8422" width="117.5" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
