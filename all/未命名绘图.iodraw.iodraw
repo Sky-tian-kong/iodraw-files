@@ -1925,7 +1925,7 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-62" value="题目设置完成" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1073.5" y="7516" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="qavm2XYwfONDXoyIS46i-52" target="XrpJp7BYSiqqD0loBoWq-56" edge="1">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" target="XrpJp7BYSiqqD0loBoWq-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1131.5000000000005" y="6865" as="sourcePoint" />
           </mxGeometry>
@@ -2352,17 +2352,11 @@
         <mxCell id="qavm2XYwfONDXoyIS46i-51" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="8237" width="121" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qavm2XYwfONDXoyIS46i-52" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="6805" width="117.5" height="61" as="geometry" />
+        </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-53" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1074.75" y="7619" width="117.5" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="qavm2XYwfONDXoyIS46i-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" target="qavm2XYwfONDXoyIS46i-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1131.5000000000005" y="6865" as="sourcePoint" />
-            <mxPoint x="1131" y="6925" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qavm2XYwfONDXoyIS46i-52" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1071" y="6828" width="117.5" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
