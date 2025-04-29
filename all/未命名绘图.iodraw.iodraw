@@ -2361,7 +2361,7 @@
             <mxPoint x="1558.6666666666667" y="7980.118859608969" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qavm2XYwfONDXoyIS46i-59" value="数据库获取数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qavm2XYwfONDXoyIS46i-59" value="数据库查询" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1498.5" y="7875" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" source="qavm2XYwfONDXoyIS46i-61" target="qavm2XYwfONDXoyIS46i-71" parent="1">
