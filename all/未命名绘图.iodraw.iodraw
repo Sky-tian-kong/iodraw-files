@@ -2407,8 +2407,8 @@
         <mxCell id="qavm2XYwfONDXoyIS46i-75" value="选择条形图" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1498.5" y="8163" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qavm2XYwfONDXoyIS46i-78" value="生成可视化" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1498.5" y="8431" width="120" height="60" as="geometry" />
+        <mxCell id="qavm2XYwfONDXoyIS46i-78" value="动态数据更新" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1498.5" y="8359" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
