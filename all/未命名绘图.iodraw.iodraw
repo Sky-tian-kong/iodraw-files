@@ -1923,7 +1923,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-62" value="题目设置完成" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1073.5" y="7516" width="120" height="60" as="geometry" />
+          <mxGeometry x="1073.5" y="7517" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=18;" parent="1" target="XrpJp7BYSiqqD0loBoWq-56" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1943,7 +1943,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-66" value="题目信息填写是否正确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1045" y="7349" width="213" height="130" as="geometry" />
+          <mxGeometry x="1027" y="7386" width="213" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-70" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1139" y="7471" width="30" height="34" as="geometry" />
