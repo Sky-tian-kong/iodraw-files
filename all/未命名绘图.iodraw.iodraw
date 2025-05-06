@@ -1824,7 +1824,7 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-32" value="创建应用" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="458.5" y="7835" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="XrpJp7BYSiqqD0loBoWq-34" edge="1">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="XrpJp7BYSiqqD0loBoWq-34" edge="1" target="XrpJp7BYSiqqD0loBoWq-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="518.6666666666667" y="8026.785475413005" as="targetPoint" />
           </mxGeometry>
@@ -1853,7 +1853,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-38" value="应用信息填写是否正确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="384" y="7979" width="205" height="130" as="geometry" />
+          <mxGeometry x="386" y="8024" width="205" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-40" value="创建成功" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="426.5" y="8192" width="120" height="60" as="geometry" />
@@ -2337,7 +2337,7 @@
           <mxGeometry x="453.5" y="7743" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-51" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="437" y="8348" width="121" height="60" as="geometry" />
+          <mxGeometry x="425.5" y="8304" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-52" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1080" y="6822.5" width="117.5" height="61" as="geometry" />
