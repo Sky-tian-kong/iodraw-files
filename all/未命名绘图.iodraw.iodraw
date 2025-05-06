@@ -758,9 +758,9 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-137" value="数据是否请求成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-604" y="6848" width="175.73" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" parent="1" source="WaSGcoQdoSlrRCY8OdyT-139" target="WaSGcoQdoSlrRCY8OdyT-144" edge="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" parent="1" source="WaSGcoQdoSlrRCY8OdyT-139" target="zDk62_c5Uxl20k4oUXcD-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-501.77" y="7091.714164733887" as="targetPoint" />
+            <mxPoint x="-502.28571428571445" y="7101.004164733886" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-139" value="图表展示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
@@ -771,9 +771,6 @@
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-142" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-439.77" y="6877" width="31" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-144" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-562.27" y="7101.004164733887" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WaSGcoQdoSlrRCY8OdyT-145" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2416,8 +2413,8 @@
         <mxCell id="zDk62_c5Uxl20k4oUXcD-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-557.52" y="6506" width="117.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="zDk62_c5Uxl20k4oUXcD-3" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="7117" width="117.5" height="61" as="geometry" />
+        <mxCell id="zDk62_c5Uxl20k4oUXcD-3" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-537" y="7125.5" width="117.5" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
