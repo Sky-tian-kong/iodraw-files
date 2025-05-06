@@ -718,7 +718,7 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-129" value="开始登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-126.99999999999997" y="6013" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WaSGcoQdoSlrRCY8OdyT-131" edge="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WaSGcoQdoSlrRCY8OdyT-131" edge="1" target="WaSGcoQdoSlrRCY8OdyT-133">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-498.77" y="6658.949396470014" as="targetPoint" />
           </mxGeometry>
@@ -732,7 +732,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-133" value="管理员登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-558.77" y="6661" width="120" height="60" as="geometry" />
+          <mxGeometry x="-558.77" y="6664" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WaSGcoQdoSlrRCY8OdyT-135" target="WaSGcoQdoSlrRCY8OdyT-137" edge="1">
           <mxGeometry relative="1" as="geometry">
