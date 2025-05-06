@@ -718,7 +718,7 @@
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-129" value="开始登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-126.99999999999997" y="6013" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" edge="1" target="WaSGcoQdoSlrRCY8OdyT-133">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="zDk62_c5Uxl20k4oUXcD-2" edge="1" target="WaSGcoQdoSlrRCY8OdyT-133">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-498.77" y="6658.949396470014" as="targetPoint" />
             <mxPoint x="-498.77" y="6605" as="sourcePoint" />
@@ -2414,7 +2414,7 @@
           <mxGeometry x="1937.5" y="8077" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zDk62_c5Uxl20k4oUXcD-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-558.5" y="6534" width="117.5" height="61" as="geometry" />
+          <mxGeometry x="-557.52" y="6506" width="117.5" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
