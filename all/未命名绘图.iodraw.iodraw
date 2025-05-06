@@ -756,7 +756,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-137" value="数据是否请求成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-604" y="6848" width="175.73" height="107" as="geometry" />
+          <mxGeometry x="-586.64" y="6894" width="175.73" height="107" as="geometry" />
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" parent="1" source="WaSGcoQdoSlrRCY8OdyT-139" target="zDk62_c5Uxl20k4oUXcD-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2414,7 +2414,7 @@
           <mxGeometry x="-557.52" y="6506" width="117.5" height="61" as="geometry" />
         </mxCell>
         <mxCell id="zDk62_c5Uxl20k4oUXcD-3" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-560.52" y="7192" width="117.5" height="61" as="geometry" />
+          <mxGeometry x="-560.52" y="7178" width="117.5" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
