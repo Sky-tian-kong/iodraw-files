@@ -1993,7 +1993,7 @@
           <mxGeometry x="1020.5" y="8174" width="177" height="118" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-93" value="提交成功" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1048.5" y="8386" width="120" height="60" as="geometry" />
+          <mxGeometry x="1048.5" y="8342" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-94" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1204" y="8183" width="31" height="34" as="geometry" />
@@ -2014,7 +2014,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-97" value="系统提示信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1321" y="8203" width="120" height="60" as="geometry" />
+          <mxGeometry x="1266" y="8203" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=18;" parent="1" source="XrpJp7BYSiqqD0loBoWq-98" target="XrpJp7BYSiqqD0loBoWq-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
