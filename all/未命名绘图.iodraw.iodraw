@@ -1943,7 +1943,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-66" value="题目信息填写是否正确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1045" y="7349" width="173" height="115" as="geometry" />
+          <mxGeometry x="1045" y="7349" width="213" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-70" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1139" y="7471" width="30" height="34" as="geometry" />
@@ -1961,7 +1961,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-73" value="系统提示信息有误" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="867" y="7394" width="120" height="60" as="geometry" />
+          <mxGeometry x="803" y="7384" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=18;entryX=0.449;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="XrpJp7BYSiqqD0loBoWq-86" source="qavm2XYwfONDXoyIS46i-55">
           <mxGeometry relative="1" as="geometry">
