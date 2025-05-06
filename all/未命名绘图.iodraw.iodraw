@@ -745,14 +745,15 @@
             <mxPoint x="-498.77" y="6996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaSGcoQdoSlrRCY8OdyT-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="WaSGcoQdoSlrRCY8OdyT-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-498.77" y="6717" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-320" y="6897" />
-              <mxPoint x="-320" y="6717" />
+              <mxPoint x="-391" y="6897" />
+              <mxPoint x="-244" y="6897" />
+              <mxPoint x="-244" y="6717" />
             </Array>
-            <mxPoint x="-428.27" y="6897" as="sourcePoint" />
+            <mxPoint x="-350" y="6934" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaSGcoQdoSlrRCY8OdyT-137" value="数据是否请求成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
