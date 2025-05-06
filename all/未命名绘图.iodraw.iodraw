@@ -1894,7 +1894,7 @@
           <mxGeometry x="1071.5" y="6925" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-57" value="是否使用AI生成题目" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1043" y="7028" width="177" height="80" as="geometry" />
+          <mxGeometry x="1043" y="7028" width="213" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-58" value="用户自定义题目" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1073.5" y="7178" width="120" height="60" as="geometry" />
@@ -1923,7 +1923,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-62" value="题目设置完成" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1073.5" y="7517" width="120" height="60" as="geometry" />
+          <mxGeometry x="1073.5" y="7558" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=18;" parent="1" target="XrpJp7BYSiqqD0loBoWq-56" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1946,7 +1946,7 @@
           <mxGeometry x="1027" y="7386" width="213" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-70" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1139" y="7471" width="30" height="34" as="geometry" />
+          <mxGeometry x="1180" y="7501" width="30" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-72" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1001" y="7390" width="31" height="34" as="geometry" />
