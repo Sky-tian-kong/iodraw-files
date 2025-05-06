@@ -2342,7 +2342,7 @@
           <mxGeometry x="1080" y="6822.5" width="117.5" height="61" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-53" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1077.5" y="7695" width="117.5" height="61" as="geometry" />
+          <mxGeometry x="1078.75" y="7728" width="117.5" height="61" as="geometry" />
         </mxCell>
         <mxCell id="qavm2XYwfONDXoyIS46i-55" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1044" y="7789" width="117.5" height="61" as="geometry" />
