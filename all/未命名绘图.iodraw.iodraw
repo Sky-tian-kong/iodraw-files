@@ -1824,7 +1824,7 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-32" value="创建应用" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="458.5" y="7835" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="XrpJp7BYSiqqD0loBoWq-34" edge="1" target="XrpJp7BYSiqqD0loBoWq-38">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" parent="1" source="XrpJp7BYSiqqD0loBoWq-34" edge="1" target="XrpJp7BYSiqqD0loBoWq-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="518.6666666666667" y="8026.785475413005" as="targetPoint" />
           </mxGeometry>
@@ -1854,7 +1854,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-38" value="应用信息填写是否正确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="416" y="8039" width="205" height="130" as="geometry" />
+          <mxGeometry x="416" y="8037" width="205" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-40" value="创建成功" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="426.5" y="8192" width="120" height="60" as="geometry" />
@@ -1869,7 +1869,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-47" value="系统提示信息有误" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="668" y="8127" width="120" height="60" as="geometry" />
+          <mxGeometry x="754" y="8170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=18;" parent="1" source="XrpJp7BYSiqqD0loBoWq-56" target="XrpJp7BYSiqqD0loBoWq-57" edge="1">
           <mxGeometry relative="1" as="geometry">
