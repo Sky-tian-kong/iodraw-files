@@ -240,7 +240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-24" value="管理应用" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-228.5" y="3070" width="140" height="70" as="geometry" />
+          <mxGeometry x="-228.5" y="3059" width="140" height="81" as="geometry" />
         </mxCell>
         <mxCell id="XpfKUMwM36LwxsHVW_NN-25" value="管理用户信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-87" y="3059" width="140" height="81" as="geometry" />
@@ -1676,10 +1676,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-45" value="登录" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="49" y="3070" width="140" height="70" as="geometry" />
+          <mxGeometry x="49" y="3062" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-46" value="管理题目" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="190" y="3074" width="140" height="70" as="geometry" />
+          <mxGeometry x="190" y="3067" width="140" height="77" as="geometry" />
         </mxCell>
         <mxCell id="E_kZswrr_-1NP9D8N0Wx-47" value="管理评论信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="329" y="3072" width="140" height="78" as="geometry" />
