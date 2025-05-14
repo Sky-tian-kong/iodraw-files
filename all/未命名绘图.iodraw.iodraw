@@ -2411,7 +2411,7 @@
           <mxGeometry x="-560.52" y="7080" width="117.5" height="61" as="geometry" />
         </mxCell>
         <mxCell id="zDk62_c5Uxl20k4oUXcD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-1255" y="1282" width="336" height="686" as="geometry" />
+          <mxGeometry x="-1718" y="1282" width="336" height="551" as="geometry" />
         </mxCell>
         <mxCell id="zDk62_c5Uxl20k4oUXcD-5" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-1897.5" y="1634" width="55.5" height="114" as="geometry" />
