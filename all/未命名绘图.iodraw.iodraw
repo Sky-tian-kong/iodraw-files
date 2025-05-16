@@ -1942,11 +1942,12 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-72" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="997" y="7410" width="31" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Gowy8TGDrK6eKKGI7Cb9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-73">
+        <mxCell id="Gowy8TGDrK6eKKGI7Cb9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1124" y="7255" as="targetPoint" />
+            <mxPoint x="1131" y="7255" as="targetPoint" />
+            <mxPoint x="922" y="7421" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="915" y="7255" />
+              <mxPoint x="922" y="7255" />
             </Array>
           </mxGeometry>
         </mxCell>
