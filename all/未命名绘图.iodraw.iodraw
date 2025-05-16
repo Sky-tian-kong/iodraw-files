@@ -1995,7 +1995,7 @@
             <mxPoint x="1102.5" y="8579" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;fontSize=18;" parent="1" source="XrpJp7BYSiqqD0loBoWq-97" edge="1">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeWidth=2;fontSize=18;" parent="1" source="XrpJp7BYSiqqD0loBoWq-97" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1109" y="8049" as="targetPoint" />
             <Array as="points">
