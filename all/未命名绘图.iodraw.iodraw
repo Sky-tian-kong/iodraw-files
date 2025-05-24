@@ -2409,8 +2409,8 @@
         <mxCell id="zDk62_c5Uxl20k4oUXcD-3" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-560.52" y="7080" width="117.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="zDk62_c5Uxl20k4oUXcD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-1359" y="1202" width="336" height="551" as="geometry" />
+        <mxCell id="zDk62_c5Uxl20k4oUXcD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-1721" y="1279.5" width="336" height="551" as="geometry" />
         </mxCell>
         <mxCell id="zDk62_c5Uxl20k4oUXcD-5" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1899" y="1548" width="55.5" height="114" as="geometry" />
@@ -2472,7 +2472,7 @@
             <mxPoint x="-1610" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zde2EUBb1sJVKwopBolZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="zde2EUBb1sJVKwopBolZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1852" y="3270" width="245" height="697" as="geometry" />
         </mxCell>
         <mxCell id="zde2EUBb1sJVKwopBolZ-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=24;strokeWidth=2;" vertex="1" parent="1">
