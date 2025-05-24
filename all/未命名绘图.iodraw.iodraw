@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="9gzZEy21qc_mqvWpXqcl">
-    <mxGraphModel dx="12570" dy="7190" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4303" dy="1445" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2506,7 +2506,7 @@
           <mxGeometry x="-2088" y="3429" width="140" height="77" as="geometry" />
         </mxCell>
         <mxCell id="zde2EUBb1sJVKwopBolZ-10" value="管理评论信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-2327" y="3827" width="140" height="84" as="geometry" />
+          <mxGeometry x="-2342" y="3825" width="140" height="84" as="geometry" />
         </mxCell>
         <mxCell id="zde2EUBb1sJVKwopBolZ-11" value="管理回答结果" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-2340" y="3913" width="140" height="81" as="geometry" />
