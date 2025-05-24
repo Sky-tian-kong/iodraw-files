@@ -1858,12 +1858,11 @@
         </mxCell>
         <mxCell id="zde2EUBb1sJVKwopBolZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="524" y="7913" as="targetPoint" />
+            <mxPoint x="600" y="7913" as="targetPoint" />
             <Array as="points">
               <mxPoint x="803" y="8099" />
-              <mxPoint x="803" y="7932" />
-              <mxPoint x="559" y="7932" />
-              <mxPoint x="559" y="7919" />
+              <mxPoint x="803" y="7919" />
+              <mxPoint x="524" y="7919" />
             </Array>
           </mxGeometry>
         </mxCell>
