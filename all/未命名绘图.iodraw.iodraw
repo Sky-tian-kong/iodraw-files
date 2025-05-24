@@ -2413,10 +2413,10 @@
           <mxGeometry x="-1652" y="1279.5" width="187" height="551" as="geometry" />
         </mxCell>
         <mxCell id="zDk62_c5Uxl20k4oUXcD-5" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-1899" y="1548" width="55.5" height="114" as="geometry" />
+          <mxGeometry x="-1857" y="1539" width="55.5" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="zDk62_c5Uxl20k4oUXcD-6" value="智能答题应用平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-1637" y="1291" width="162" height="34" as="geometry" />
+        <mxCell id="zDk62_c5Uxl20k4oUXcD-6" value="答题应用平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-1619" y="1291" width="126" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zDk62_c5Uxl20k4oUXcD-7" value="" style="endArrow=classicThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;fontSize=18;strokeWidth=2;" parent="1" source="zDk62_c5Uxl20k4oUXcD-5" target="zDk62_c5Uxl20k4oUXcD-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
