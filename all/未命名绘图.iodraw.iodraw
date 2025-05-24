@@ -1856,9 +1856,13 @@
             <mxPoint x="518.5" y="8329" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zde2EUBb1sJVKwopBolZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-47">
+        <mxCell id="zde2EUBb1sJVKwopBolZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="XrpJp7BYSiqqD0loBoWq-47" target="XrpJp7BYSiqqD0loBoWq-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="798.5630277745868" y="7951.084111830767" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="803" y="8099" />
+              <mxPoint x="803" y="7986" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-47" value="系统提示信息有误" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
