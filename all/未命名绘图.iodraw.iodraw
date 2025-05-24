@@ -1974,7 +1974,7 @@
         <mxCell id="XrpJp7BYSiqqD0loBoWq-88" value="进入题目页面" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1048.5" y="7972" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XrpJp7BYSiqqD0loBoWq-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=18;endArrow=classicThin;endFill=1;" parent="1" source="XrpJp7BYSiqqD0loBoWq-92" target="XrpJp7BYSiqqD0loBoWq-97" edge="1">
+        <mxCell id="XrpJp7BYSiqqD0loBoWq-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=18;endArrow=classic;endFill=1;" parent="1" source="XrpJp7BYSiqqD0loBoWq-92" target="XrpJp7BYSiqqD0loBoWq-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XrpJp7BYSiqqD0loBoWq-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=18;" parent="1" source="XrpJp7BYSiqqD0loBoWq-92" target="XrpJp7BYSiqqD0loBoWq-93" edge="1">
